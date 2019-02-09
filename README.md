@@ -56,6 +56,10 @@ ssshhh
 - https://github.com/macmade/Macintosh-ROMs
 - https://www.macintoshrepository.org/7038-all-macintosh-roms-68k-ppc
 
+#### Drivers
+- [Drivers for QEMU's emulated devices](http://www.claunia.com/qemu/drivers/)
+- [VOGONS Vintage Drivers](http://vogonsdrivers.com/)
+
 
 ## Setup Guides
 
