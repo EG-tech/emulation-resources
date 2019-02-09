@@ -7,7 +7,7 @@ If you have never contributed to GitHub before, feel free to [file a new issue](
 
 ## Contents
 - [Emulators](#emulators)
-- [Old Software Download Sites](#old-software-download-sites)
+- [Software Download Sites](#software-download-sites)
 - [Setup Guides](#setup-guides)
 - [Copyright](#copyright)
 - [Reading](#reading)
@@ -34,9 +34,9 @@ Target guest systems listed in parantheses.
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
 - [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
 
-- keeping an eye on [Spoiled Apples](https://avpres.net/Spoiled_Apples/)
+- .... and keeping an eye on [Spoiled Apples](https://avpres.net/Spoiled_Apples/)
 
-## Old Software Download Sites
+## Software Download Sites
 
 I have generally had luck with these sites, but be careful out there.
 
@@ -48,6 +48,8 @@ I have generally had luck with these sites, but be careful out there.
 - [Macintosh Repository](https://www.macintoshrepository.org)
 - [Bitsavers](http://bitsavers.org/bits)
 - [Software Heritage source code archive](https://archive.softwareheritage.org/)
+- [ArchiveOS](https://archiveos.org/)
+- [QEMU Advent Calendars](https://www.qemu-advent-calendar.org/)
 
 #### Mac ROMS
 ssshhh
