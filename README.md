@@ -106,5 +106,5 @@ Some important guidance on copyright concerns when it comes to using emulation f
   <a rel="dct:publisher"
      href="https://github.com/EG-tech/emulation-resources">https://github.com/EG-tech/emulation-resources</a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">open-workflows</span>.
+  <span property="dct:title">emulation-resources</span>.
 </p>
