@@ -64,6 +64,7 @@ ssshhh
 - [Redundant Robot SheepShaver Tutorial](http://www.redundantrobot.com/sheepshaver.html)
 - [Running NeXTSTEP in VirtualBox](https://sites.google.com/site/benvirtualbox/home/nextstep)
 - [QEMU Wikibooks info/guides](https://en.wikibooks.org/wiki/QEMU)
+- [QEMU Tutorials, Computer History Wiki](http://gunkies.org/wiki/Category:QEMU_Tutorials)
 - [DOSBox Wiki](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox)
 
 ## Copyright
