@@ -34,6 +34,8 @@ Target guest systems listed in parantheses.
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
 - [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
 
+- keeping an eye on [Spoiled Apples](https://avpres.net/Spoiled_Apples/)
+
 ## Old Software Download Sites
 
 I have generally had luck with these sites, but be careful out there.
@@ -53,13 +55,14 @@ ssshhh
 - https://www.macintoshrepository.org/7038-all-macintosh-roms-68k-ppc
 
 
-## Guides
+## Setup Guides
 
 - [A Guide to Legacy Mac Emulators](https://patchbay.tech/2018/05/21/a-guide-to-legacy-mac-emulators/)
 - [E-maculation How-Tos](https://emaculation.com/doku.php)
 - [Redundant Robot SheepShaver Tutorial](http://www.redundantrobot.com/sheepshaver.html)
 - [Running NeXTSTEP in VirtualBox](https://sites.google.com/site/benvirtualbox/home/nextstep)
-- 
+- [QEMU Wikibooks info/guides](https://en.wikibooks.org/wiki/QEMU)
+- [DOSBox Wiki](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox)
 
 ## Copyright
 
@@ -67,8 +70,26 @@ Some important guidance on copyright concerns when it comes to using emulation f
 
 - [ARL Code of Best Practices in Fair Use for Software Preservation](https://www.arl.org/storage/documents/publications/2018.09.24_softwarepreservationcode.pdf)
 - [A Preservationist's Guide to the DMCA Exception for Software Preservation](http://softwarepn.webmasters21.com/wp-content/uploads/2019/01/2018-12_DMCAchecklist_updated_12132018.pdf)
+- ["Intellectual Property Rights Issues for Software Emulation: An Interview with Euan Cochrane, Zach Vowell and Jessica Meyerson"](https://blogs.loc.gov/thesignal/2016/01/intellectual-property-rights-issues-for-software-emulation-an-interview-with-euan-cochrane-zach-vowell-and-jessica-meyerson/), Morgan McKeehan, *The Signal*, 2016-01-22
 
 ## Reading
+
+- ["How to Party Like It's 1999: Emulation for Everyone"](https://journal.code4lib.org/articles/11386), Dianne Dietrich, Julia Kim, Morgan McKeehan, and Alison Rhonemus, *The Code4Lib Journal* Issue 32, 2016-04-25
+- ["Introduction to an emulation-based preservation strategy for software-based art works"](https://www.tate.org.uk/download/file/fid/105887), Klaus Rechert, Patricia Falcao, Tom Ensom, *PERICLES Project, Tate*
+- ["QEMU - A Crucial Building Block in Digital Preservation Strategies"](http://eprints.rclis.org/15406/1/qemu-in-ltp.pdf), Dirk von Suchodoletz, Klaus Rechert, Achille Nana Tchayep, 2011
+- ["Software archives as a vital base for digital preservation strategies"](http://eprints.rclis.org/14732/1/OR2010-SoftwareArchives-IEEE.pdf), Dirk von Suchodoletz, Klaus Rechert, Maurice van den Dobbelsteen, 2010
+- "The Foundations of Emulation as a Service: An Interview with Dirk von Suchodoletz", [Part 1](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-one/) and [Part 2](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-two/), *The Signal*, 2012-12-10 and 2012-12-11
+- ["Emulation as a Service (EaaS) at Yale University Library](https://blogs.loc.gov/thesignal/2014/08/emulation-as-a-service-eaas-at-yale-university-library/), Euan Cochrane, *The Signal*, 2014-08-20
+- ["Rendering Matters - Report on the results of research into digital objet rendering"](http://archives.govt.nz/rendering-matters-report-results-research-digital-object-rendering), produced by Archives New Zealand, 2012-01-03
+- ["Wikidata as a digital preservation knowledgebase"](https://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/), Euan Cochrane, *Open Preservation Foundation blog*, 2016-09-30
+- ["Preserving Virtual Research Environments - Introducing CiTAR"](https://openpreservation.org/blog/2018/12/12/preserving-virtual-research-environments-introducing-citar-part-1/), Klaus Rechert, *Open Preservation Foundation blog*, 2018-12-12
+- ["Exploring Email Emulation"](http://www.emailarchivestaskforce.org/documents/exploring-email-emulation/), *Task Force on Technical Approaches for Email Archives*, 2018-03-01
+- ["The Emularity"](http://ascii.textfiles.com/archives/4546), Jason Scott, 2015-01-23
+- ["Designing a Universal Virtual Interactor for digital objects"](https://dpconline.org/blog/idpd/designing-a-uvi-for-digital-objects), Euan Cochrane, *Digital Preservation Coalition blog*, 2018-11-23
+- *Re-Collection: Art, New Media and Social Memory*, [Educational Resources](http://re-collection.net/educational_resources.html), Jon Ippolito, Richard Rinehart, 2014
+- ["Cyberspace, the old-fashioned way"](https://rhizome.org/editorial/2015/nov/30/oldweb-today/), *Rhizome blog*, 2015-11-30
+- ["The Theresa Duncan CD-ROMs: Putting interactive classics online with Emulation as a Service"](https://artsandculture.google.com/exhibit/qgIS10kvri3IJw), 2015
+- more resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
 
 
 ### Repository Copyright
