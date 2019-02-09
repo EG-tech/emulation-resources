@@ -74,6 +74,7 @@ Some important guidance on copyright concerns when it comes to using emulation f
 
 ## Reading
 
+- ["Classroom Access to Interactive DVDs"](https://patchbay.tech/2017/09/29/classroom-access-to-interactive-dvds/), Ethan Gates, *The Patch Bay*, 2017-09-29
 - ["How to Party Like It's 1999: Emulation for Everyone"](https://journal.code4lib.org/articles/11386), Dianne Dietrich, Julia Kim, Morgan McKeehan, and Alison Rhonemus, *The Code4Lib Journal* Issue 32, 2016-04-25
 - ["Introduction to an emulation-based preservation strategy for software-based art works"](https://www.tate.org.uk/download/file/fid/105887), Klaus Rechert, Patricia Falcao, Tom Ensom, *PERICLES Project, Tate*
 - ["QEMU - A Crucial Building Block in Digital Preservation Strategies"](http://eprints.rclis.org/15406/1/qemu-in-ltp.pdf), Dirk von Suchodoletz, Klaus Rechert, Achille Nana Tchayep, 2011
