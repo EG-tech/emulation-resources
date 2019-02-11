@@ -33,6 +33,7 @@ Target guest systems listed in parantheses.
 - [QEMU](https://www.qemu.org/) (x86 PC virtualization, PowerPC, SPARC, ARM, MIPS emulation and more)
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
 - [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
+- [Microsoft Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3702) (x86 PC virtualization)
 
 - .... and keeping an eye on [Spoiled Apples](https://avpres.net/Spoiled_Apples/)
 
