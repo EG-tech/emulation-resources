@@ -35,6 +35,7 @@ Target guest systems listed in parantheses.
 - [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
 - [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
 - [SheepShaver](https://sheepshaver.cebix.net/) (PowerPC Macs)
+- [PCE](http://www.hampa.ch/pce/) (Atari ST, IBM PC5150, and 68k Mac emulation)
 - [Bochs](http://bochs.sourceforge.net/) (x86 PC emulation)
 - [QEMU](https://www.qemu.org/) (x86 PC virtualization, PowerPC, SPARC, ARM, MIPS emulation and more)
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
@@ -109,7 +110,7 @@ Some important guidance on copyright concerns when it comes to using emulation f
 - ["The Theresa Duncan CD-ROMs: Putting interactive classics online with Emulation as a Service"](https://artsandculture.google.com/exhibit/qgIS10kvri3IJw), 2015
 - ["Software Preservation Literature Review"](https://osf.io/abk2g/), Jessica Meyerson, *Educopia Institute/SPN*, Fall 2017
 - more resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
-
+- recorded [webinars](http://www.softwarepreservationnetwork.org/events/) from Software Preservation Network
 
 ### Repository Copyright
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="https://www.w3.org/2001/vcard-rdf/3.0#">
