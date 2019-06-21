@@ -88,6 +88,7 @@ ssshhh
 
 I've received many questions about where I get information about using and configuring old operating systems (and troubleshooting them with various emulation applications). Short answer: wherever search engines take me, even if it's a random forum post from 2004. But there are some vintage computing hobbyist sites and resources that have popped up more often, so a shoutout to those here:
 
+- [Amit Singh (kernelthread.com)](http://www.kernelthread.com/)
 - [Computer History Wiki](http://gunkies.org/wiki/Main_Page)
 - [Computer Hope](https://www.computerhope.com/)
 - [Info-Mac](https://www.info-mac.org/)
