@@ -9,6 +9,7 @@ If you have never contributed to GitHub before, feel free to [file a new issue](
 - [Emulators](#emulators)
 - [Software Download Sites](#software-download-sites)
 - [Setup Guides](#setup-guides)
+- [Hobby Blogs](#hobby-blogs)
 - [Copyright](#copyright)
 - [Reading](#reading)
 ---
@@ -79,6 +80,24 @@ ssshhh
 - [QEMU Wikibooks info/guides](https://en.wikibooks.org/wiki/QEMU)
 - [QEMU Tutorials, Computer History Wiki](http://gunkies.org/wiki/Category:QEMU_Tutorials)
 - [DOSBox Wiki](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox)
+- [Windows 95/98 Guest OSes in VirtualBox](https://forums.virtualbox.org/viewtopic.php?f=2&t=33359&start=30)
+- ["How Linux got to be Linux: Test driving 1993-2003 distros"](https://opensource.com/article/16/12/yearbook-linux-test-driving-distros) (includes relevant QEMU configurations and tips for a bunch of older Linux OSes)
+
+
+## Hobby Blogs
+
+I've received many questions about where I get information about using and configuring old operating systems (and troubleshooting them with various emulation applications). Short answer: wherever search engines take me, even if it's a random forum post from 2004. But there are some vintage computing hobbyist sites and resources that have popped up more often, so a shoutout to those here:
+
+- [Computer History Wiki](http://gunkies.org/wiki/Main_Page)
+- [Computer Hope](https://www.computerhope.com/)
+- [Info-Mac](https://www.info-mac.org/)
+- [Macintosh System Error Codes Explained (PreOSX)](http://www.macwizard.com/errors.html)
+- [Old Computer Museum](http://www.oldcomputermuseum.com/default.htm)
+- [The OS Files](http://www.osfiles.com/index.htm)
+- [OS/2 Museum](http://www.os2museum.com/wp/)
+- [System 7 Today](http://forums.system7today.com/)
+- [Virtually Fun](https://virtuallyfun.com/wordpress/)
+
 
 ## Copyright
 
@@ -89,6 +108,8 @@ Some important guidance on copyright concerns when it comes to using emulation f
 - ["Intellectual Property Rights Issues for Software Emulation: An Interview with Euan Cochrane, Zach Vowell and Jessica Meyerson"](https://blogs.loc.gov/thesignal/2016/01/intellectual-property-rights-issues-for-software-emulation-an-interview-with-euan-cochrane-zach-vowell-and-jessica-meyerson/), Morgan McKeehan, *The Signal*, 2016-01-22
 
 ## Reading
+
+More scholarly considerations of emulation as an access service and digital/software preservation, and/or summaries of emulation used in cultural heritage projects:
 
 - ["Making Things EaaSIer: Overview from EaaSI's PI"](https://www.softwarepreservationnetwork.org/blog/making-things-eaasier-overview-from-eaasis-pi/), Euan Cochrane, *EaaSI Blog*, 2019-02-11
 - ["Classroom Access to Interactive DVDs"](https://patchbay.tech/2017/09/29/classroom-access-to-interactive-dvds/), Ethan Gates, *The Patch Bay*, 2017-09-29
