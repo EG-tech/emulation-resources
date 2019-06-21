@@ -99,6 +99,8 @@ I've received many questions about where I get information about using and confi
 - [System 7 Today](http://forums.system7today.com/)
 - [Virtually Fun](https://virtuallyfun.com/wordpress/)
 
+I should also mention that the Internet Archive frequently has scanned manuals and self-help books that you can download or check out from their (eBook library)[https://archive.org/details/texts]!
+
 
 ## Copyright
 
