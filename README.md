@@ -19,6 +19,7 @@ If you have never contributed to GitHub before, feel free to [file a new issue](
 Target guest systems listed in parantheses.
 
 - [BeebEm](http://www.mkw.me.uk/beebem/) (BBC Micro + Master 128)
+- [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
 - [Hatari](https://hatari.tuxfamily.org/) (Atari series)
 - [DOSBox](https://www.dosbox.com/) (DOS-based x86 PCs)
 - [PCem](http://pcem-emulator.co.uk/) (x86 PCs)
@@ -33,6 +34,7 @@ Target guest systems listed in parantheses.
 - [KEGS](http://kegs.sourceforge.net/) (Apple IIgs)
 - [AppleWin](https://github.com/applewin/applewin) (Apple II, for Windows)
   - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)
+- [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/) (68k Mac emulator w/no need for ROMs or system software)
 - [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
 - [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
 - [SheepShaver](https://sheepshaver.cebix.net/) (PowerPC Macs)
