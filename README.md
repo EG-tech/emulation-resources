@@ -41,6 +41,9 @@ Target guest systems listed in parantheses.
 - [PCE](http://www.hampa.ch/pce/) (Atari ST, IBM PC5150, and 68k Mac emulation)
 - [Bochs](http://bochs.sourceforge.net/) (x86 PC emulation)
 - [QEMU](https://www.qemu.org/) (x86 PC virtualization, PowerPC, SPARC, ARM, MIPS emulation and more)
+  - [QEMU Manager](http://www.davereyn.co.uk/) (QEMU front-end; Windows-only)
+  - [AQEMU](https://github.com/tobimensch/aqemu) (QEMU front-end, not actively developed and must be compiled from source)
+  - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
 - [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
 - [Microsoft Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3702) (x86 PC virtualization)
