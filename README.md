@@ -3,7 +3,7 @@ A collection of resources re: emulation for preservation and access.
 
 In the spirit of the AMIA [open-workflows](https://github.com/amiaopensource/open-workflows), [analog-inspection](https://github.com/amiaopensource/analog-inspection) and [time-based-media-art](https://github.com/amiaopensource/time-based-media-art) repositories. Maintained by myself for [personal](https://ethan-gates.com/talks/2018-02-20-talk-5) and [professional](https://softwarepreservationnetwork.org/eaasi) reasons, but pull requests welcome!
 
-If you have never contributed to GitHub before, feel free to [file a new issue](https://github.com/EG-tech/emulation-resources/issues) with a link and I'll add it! Or just ping me [elsewhere](https://digipres.club/@The_BFOOL).
+If you have never contributed to GitLab before, feel free to [file a new issue](https://gitlab.com/EG-tech/emulation-resources/issues) with a link and I'll add it! Or just ping me [elsewhere](https://digipres.club/@The_BFOOL).
 
 ## Contents
 - [Emulators](#emulators)
@@ -25,7 +25,8 @@ Target guest systems listed in parantheses.
 - [PCem](http://pcem-emulator.co.uk/) (x86 PCs)
 - [UAE](https://amiga.technology/) (Amiga series)
   - [WinUAE](http://www.winuae.net/) (port for Windows)
-  - [FS-UAE](https://fs-uae.net/) (port for Mac, Linux, Windows)
+  - [FS-UAE](https://fs-uae.net/) (port for Mac, Linux, Windows)  
+
 - [Amiga Forever](https://www.amigaforever.com/) (Amiga)
 - [CCS64](http://ccs64.com/) (Commodore 64)
 - [VICE](http://vice-emu.sourceforge.net/) (Commodore series)
@@ -33,7 +34,8 @@ Target guest systems listed in parantheses.
 - [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) (Xerox Alto)
 - [KEGS](http://kegs.sourceforge.net/) (Apple IIgs)
 - [AppleWin](https://github.com/applewin/applewin) (Apple II, for Windows)
-  - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)
+  - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)  
+
 - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/) (68k Mac emulator w/no need for ROMs or system software)
 - [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
 - [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
@@ -43,7 +45,8 @@ Target guest systems listed in parantheses.
 - [QEMU](https://www.qemu.org/) (x86 PC virtualization, PowerPC, SPARC, ARM, MIPS emulation and more)
   - [QEMU Manager](http://www.davereyn.co.uk/) (QEMU front-end; Windows-only)
   - [AQEMU](https://github.com/tobimensch/aqemu) (QEMU front-end, not actively developed and must be compiled from source)
-  - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)
+  - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)  
+
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
 - [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
 - [Microsoft Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3702) (x86 PC virtualization)
@@ -150,7 +153,7 @@ More scholarly considerations of emulation as an access service and digital/soft
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/EG-tech/emulation-resources">https://github.com/EG-tech/emulation-resources</a>
+     href="https://gitlab.com/EG-tech/emulation-resources">https://gitlab.com/EG-tech/emulation-resources</a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">emulation-resources</span>.
 </p>
