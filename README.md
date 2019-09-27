@@ -124,29 +124,40 @@ Some important guidance on copyright concerns when it comes to using emulation f
 
 More scholarly considerations of emulation as an access service and digital/software preservation, and/or summaries of emulation used in cultural heritage projects:
 
-- ["Making Things EaaSIer: Overview from EaaSI's PI"](https://www.softwarepreservationnetwork.org/blog/making-things-eaasier-overview-from-eaasis-pi/), Euan Cochrane, *EaaSI Blog*, 2019-02-11
-- ["Classroom Access to Interactive DVDs"](https://patchbay.tech/2017/09/29/classroom-access-to-interactive-dvds/), Ethan Gates, *The Patch Bay*, 2017-09-29
-- ["How to Party Like It's 1999: Emulation for Everyone"](https://journal.code4lib.org/articles/11386), Dianne Dietrich, Julia Kim, Morgan McKeehan, and Alison Rhonemus, *The Code4Lib Journal* Issue 32, 2016-04-25
-- ["Emulation and Virtualization as Preservation Strategies"](https://mellon.org/media/filer_public/0c/3e/0c3eee7d-4166-4ba6-a767-6b42e6a1c2a7/rosenthal-emulation-2015.pdf), David Rosenthal, *Mellon Foundation*, 2015
-- ["Introduction to an emulation-based preservation strategy for software-based art works"](https://www.tate.org.uk/download/file/fid/105887), Klaus Rechert, Patricia Falcao, Tom Ensom, *PERICLES Project, Tate*
-- ["QEMU - A Crucial Building Block in Digital Preservation Strategies"](http://eprints.rclis.org/15406/1/qemu-in-ltp.pdf), Dirk von Suchodoletz, Klaus Rechert, Achille Nana Tchayep, 2011
+### General
+
 - ["Software archives as a vital base for digital preservation strategies"](http://eprints.rclis.org/14732/1/OR2010-SoftwareArchives-IEEE.pdf), Dirk von Suchodoletz, Klaus Rechert, Maurice van den Dobbelsteen, 2010
-- "The Foundations of Emulation as a Service: An Interview with Dirk von Suchodoletz", [Part 1](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-one/) and [Part 2](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-two/), *The Signal*, 2012-12-10 and 2012-12-11
-- ["Emulation as a Service (EaaS) at Yale University Library](https://blogs.loc.gov/thesignal/2014/08/emulation-as-a-service-eaas-at-yale-university-library/), Euan Cochrane, *The Signal*, 2014-08-20
+- ["QEMU - A Crucial Building Block in Digital Preservation Strategies"](http://eprints.rclis.org/15406/1/qemu-in-ltp.pdf), Dirk von Suchodoletz, Klaus Rechert, Achille Nana Tchayep, 2011
 - ["Rendering Matters - Report on the results of research into digital objet rendering"](https://assets.ctfassets.net/etfoy87fj9he/5zYVqadGI4U3rVP6gHP1z9/c51d5a8907be57d202d26be2e49f84e1/rendering_matters.pdf), produced by Archives New Zealand, 2012-01-03
-- ["Wikidata as a digital preservation knowledgebase"](https://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/), Euan Cochrane, *Open Preservation Foundation blog*, 2016-09-30
-- ["Preserving Virtual Research Environments - Introducing CiTAR"](https://openpreservation.org/blog/2018/12/12/preserving-virtual-research-environments-introducing-citar-part-1/), Klaus Rechert, *Open Preservation Foundation blog*, 2018-12-12
-- ["Exploring Email Emulation"](http://www.emailarchivestaskforce.org/documents/exploring-email-emulation/), *Task Force on Technical Approaches for Email Archives*, 2018-03-01
+- "The Foundations of Emulation as a Service: An Interview with Dirk von Suchodoletz", [Part 1](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-one/) and [Part 2](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-two/), *The Signal*, 2012-12-10 and 2012-12-11
 - ["The Emularity"](http://ascii.textfiles.com/archives/4546), Jason Scott, 2015-01-23
+- ["Emulation and Virtualization as Preservation Strategies"](https://mellon.org/media/filer_public/0c/3e/0c3eee7d-4166-4ba6-a767-6b42e6a1c2a7/rosenthal-emulation-2015.pdf), David Rosenthal, *Mellon Foundation*, 2015
+- ["How to Party Like It's 1999: Emulation for Everyone"](https://journal.code4lib.org/articles/11386), Dianne Dietrich, Julia Kim, Morgan McKeehan, and Alison Rhonemus, *The Code4Lib Journal* Issue 32, 2016-04-25
+- ["Wikidata as a digital preservation knowledgebase"](https://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/), Euan Cochrane, *Open Preservation Foundation blog*, 2016-09-30
+- ["Classroom Access to Interactive DVDs"](https://patchbay.tech/2017/09/29/classroom-access-to-interactive-dvds/), Ethan Gates, *The Patch Bay*, 2017-09-29
+- ["Exploring Email Emulation"](http://www.emailarchivestaskforce.org/documents/exploring-email-emulation/), *Task Force on Technical Approaches for Email Archives*, 2018-03-01
+- ["Preserving Virtual Research Environments - Introducing CiTAR"](https://openpreservation.org/blog/2018/12/12/preserving-virtual-research-environments-introducing-citar-part-1/), Klaus Rechert, *Open Preservation Foundation blog*, 2018-12-12
+
+
+### EaaSI + SPN
+
+- ["Emulation as a Service (EaaS) at Yale University Library](https://blogs.loc.gov/thesignal/2014/08/emulation-as-a-service-eaas-at-yale-university-library/), Euan Cochrane, *The Signal*, 2014-08-20
+- ["Software Preservation Literature Review"](https://osf.io/abk2g/), Jessica Meyerson, *Educopia Institute/SPN*, Fall 2017
 - ["Designing a Universal Virtual Interactor for digital objects"](https://dpconline.org/blog/idpd/designing-a-uvi-for-digital-objects), Euan Cochrane, *Digital Preservation Coalition blog*, 2018-11-23
+- ["Making Things EaaSIer: Overview from EaaSI's PI"](https://www.softwarepreservationnetwork.org/blog/making-things-eaasier-overview-from-eaasis-pi/), Euan Cochrane, *EaaSI Blog*, 2019-02-11
+- ["Towards a Universal Virtual Interactor (UVI) for Digital Objects"](https://ipres2019.org/static/pdf/iPres2019_paper_128.pdf), Euan Cochrane, Klaus Rechert, Seth Anderson, Ethan Gates, Jessica Meyerson, *16th International Conference on Digital Preservation (iPRES)*, 2019
+- Recorded webinars + resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
+
+
+### Art and Exhibition
+
 - *Re-Collection: Art, New Media and Social Memory*, [Educational Resources](http://re-collection.net/educational_resources.html), Jon Ippolito, Richard Rinehart, 2014
 - ["Cyberspace, the old-fashioned way"](https://rhizome.org/editorial/2015/nov/30/oldweb-today/), *Rhizome blog*, 2015-11-30
 - ["The Theresa Duncan CD-ROMs: Putting interactive classics online with Emulation as a Service"](https://artsandculture.google.com/exhibit/qgIS10kvri3IJw), 2015
-- ["Software Preservation Literature Review"](https://osf.io/abk2g/), Jessica Meyerson, *Educopia Institute/SPN*, Fall 2017
-- more resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
-- recorded [webinars](http://www.softwarepreservationnetwork.org/events/) from Software Preservation Network
-- ["Towards a Universal Virtual Interactor (UVI) for Digital Objects"](https://ipres2019.org/static/pdf/iPres2019_paper_128.pdf), Euan Cochrane, Klaus Rechert, Seth Anderson, Ethan Gates, Jessica Meyerson, *16th International Conference on Digital Preservation (iPRES)*, 2019
 - ["_Floating Time_ with QEMU at the Denver Art Museum](http://www.dylanlorenz.net/files/Floating-Time-with-QEMU-at-the-DAM.pdf), Dylan Lorenz, *dylanlorenz.net*, 2019-09-24
+- ["Introduction to an emulation-based preservation strategy for software-based art works"](https://www.tate.org.uk/download/file/fid/105887), Klaus Rechert, Patricia Falcao, Tom Ensom, *PERICLES Project, Tate*
+
+
 
 ### Repository Copyright
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="https://www.w3.org/2001/vcard-rdf/3.0#">
