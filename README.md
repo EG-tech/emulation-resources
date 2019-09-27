@@ -82,6 +82,7 @@ ssshhh
 
 ## Setup Guides
 
+- [QEMU QED](https://eaasi.gitlab.io/qemu-qed)
 - [A Guide to Legacy Mac Emulators](https://patchbay.tech/2018/05/21/a-guide-to-legacy-mac-emulators/)
 - [E-maculation How-Tos](https://emaculation.com/doku.php)
 - [Redundant Robot SheepShaver Tutorial](http://www.redundantrobot.com/sheepshaver.html)
@@ -132,7 +133,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Software archives as a vital base for digital preservation strategies"](http://eprints.rclis.org/14732/1/OR2010-SoftwareArchives-IEEE.pdf), Dirk von Suchodoletz, Klaus Rechert, Maurice van den Dobbelsteen, 2010
 - "The Foundations of Emulation as a Service: An Interview with Dirk von Suchodoletz", [Part 1](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-one/) and [Part 2](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-two/), *The Signal*, 2012-12-10 and 2012-12-11
 - ["Emulation as a Service (EaaS) at Yale University Library](https://blogs.loc.gov/thesignal/2014/08/emulation-as-a-service-eaas-at-yale-university-library/), Euan Cochrane, *The Signal*, 2014-08-20
-- ["Rendering Matters - Report on the results of research into digital objet rendering"](http://archives.govt.nz/rendering-matters-report-results-research-digital-object-rendering), produced by Archives New Zealand, 2012-01-03
+- ["Rendering Matters - Report on the results of research into digital objet rendering"](https://assets.ctfassets.net/etfoy87fj9he/5zYVqadGI4U3rVP6gHP1z9/c51d5a8907be57d202d26be2e49f84e1/rendering_matters.pdf), produced by Archives New Zealand, 2012-01-03
 - ["Wikidata as a digital preservation knowledgebase"](https://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/), Euan Cochrane, *Open Preservation Foundation blog*, 2016-09-30
 - ["Preserving Virtual Research Environments - Introducing CiTAR"](https://openpreservation.org/blog/2018/12/12/preserving-virtual-research-environments-introducing-citar-part-1/), Klaus Rechert, *Open Preservation Foundation blog*, 2018-12-12
 - ["Exploring Email Emulation"](http://www.emailarchivestaskforce.org/documents/exploring-email-emulation/), *Task Force on Technical Approaches for Email Archives*, 2018-03-01
