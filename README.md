@@ -151,6 +151,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 
 ### Art and Exhibition
 
+- ["Final Report, _Erl-King_ Project"](https://www.guggenheim.org/wp-content/uploads/2015/11/guggenheim-conservation-treatment-report-erl-king-project-2004.pdf), Isaac Dimitrovsky, 2004-04-01
 - *Re-Collection: Art, New Media and Social Memory*, [Educational Resources](http://re-collection.net/educational_resources.html), Jon Ippolito, Richard Rinehart, 2014
 - ["Cyberspace, the old-fashioned way"](https://rhizome.org/editorial/2015/nov/30/oldweb-today/), *Rhizome blog*, 2015-11-30
 - ["The Theresa Duncan CD-ROMs: Putting interactive classics online with Emulation as a Service"](https://artsandculture.google.com/exhibit/qgIS10kvri3IJw), 2015
