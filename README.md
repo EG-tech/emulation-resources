@@ -137,6 +137,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Classroom Access to Interactive DVDs"](https://patchbay.tech/2017/09/29/classroom-access-to-interactive-dvds/), Ethan Gates, *The Patch Bay*, 2017-09-29
 - ["Exploring Email Emulation"](http://www.emailarchivestaskforce.org/documents/exploring-email-emulation/), *Task Force on Technical Approaches for Email Archives*, 2018-03-01
 - ["Preserving Virtual Research Environments - Introducing CiTAR"](https://openpreservation.org/blog/2018/12/12/preserving-virtual-research-environments-introducing-citar-part-1/), Klaus Rechert, *Open Preservation Foundation blog*, 2018-12-12
+- ["Teaching a Young Dog Old Tricks: Emulation Research at the National Library of Scotland"](https://dpconline.org/blog/idpd/emulation-research-nls), Sara Day Thomson, *Digital Preservation Coalition blog*, 2019-11-07
 
 
 ### EaaSI + SPN
@@ -146,6 +147,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Designing a Universal Virtual Interactor for digital objects"](https://dpconline.org/blog/idpd/designing-a-uvi-for-digital-objects), Euan Cochrane, *Digital Preservation Coalition blog*, 2018-11-23
 - ["Making Things EaaSIer: Overview from EaaSI's PI"](https://www.softwarepreservationnetwork.org/blog/making-things-eaasier-overview-from-eaasis-pi/), Euan Cochrane, *EaaSI Blog*, 2019-02-11
 - ["Towards a Universal Virtual Interactor (UVI) for Digital Objects"](https://ipres2019.org/static/pdf/iPres2019_paper_128.pdf), Euan Cochrane, Klaus Rechert, Seth Anderson, Ethan Gates, Jessica Meyerson, *16th International Conference on Digital Preservation (iPRES)*, 2019
+- ["Preserving and Integrating Community Knowledge of Computing Systems"](https://dpconline.org/blog/idpd/preserving-and-integrating-community-knowledge), Ethan Gates, *Digital Preservation Coalition blog*, 2019-11-07
 - Recorded webinars + resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
 
 
