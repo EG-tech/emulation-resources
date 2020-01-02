@@ -126,11 +126,14 @@ More scholarly considerations of emulation as an access service and digital/soft
 
 ### General
 
+- ["Avoiding Technological Quicksand: Finding a Viable Technical Foundation for Digital Preservation"](https://clir.wordpress.clir.org/wp-content/uploads/sites/6/2016/09/pub77.pdf), Jeff Rothenberg, *A Report to the Council on Library and Information Resources*, 1999
+- ["Emulation as a Digital Preservation Strategy"](http://www.dlib.org/dlib/october00/granger/10granger.html), Stewart Granger, *D-Lib Magazine Vol. 6, No. 10*, 2000
 - ["Software archives as a vital base for digital preservation strategies"](http://eprints.rclis.org/14732/1/OR2010-SoftwareArchives-IEEE.pdf), Dirk von Suchodoletz, Klaus Rechert, Maurice van den Dobbelsteen, 2010
 - ["QEMU - A Crucial Building Block in Digital Preservation Strategies"](http://eprints.rclis.org/15406/1/qemu-in-ltp.pdf), Dirk von Suchodoletz, Klaus Rechert, Achille Nana Tchayep, 2011
 - ["Rendering Matters - Report on the results of research into digital objet rendering"](https://assets.ctfassets.net/etfoy87fj9he/5zYVqadGI4U3rVP6gHP1z9/c51d5a8907be57d202d26be2e49f84e1/rendering_matters.pdf), produced by Archives New Zealand, 2012-01-03
 - "The Foundations of Emulation as a Service: An Interview with Dirk von Suchodoletz", [Part 1](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-one/) and [Part 2](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-two/), *The Signal*, 2012-12-10 and 2012-12-11
 - ["The Emularity"](http://ascii.textfiles.com/archives/4546), Jason Scott, 2015-01-23
+- ["Characterization of CD-ROMs for Emulation-based Access"](https://services.phaidra.univie.ac.at/api/object/o:429556/diss/Content/get), Klaus Rechert, Thomas Liebetraut, Oleg Stobbe, Isgandar Valizada, Tobias Steinke, *12th International Conference on Digital Preservation (iPRES)*, 2015
 - ["Emulation and Virtualization as Preservation Strategies"](https://mellon.org/media/filer_public/0c/3e/0c3eee7d-4166-4ba6-a767-6b42e6a1c2a7/rosenthal-emulation-2015.pdf), David Rosenthal, *Mellon Foundation*, 2015
 - ["How to Party Like It's 1999: Emulation for Everyone"](https://journal.code4lib.org/articles/11386), Dianne Dietrich, Julia Kim, Morgan McKeehan, and Alison Rhonemus, *The Code4Lib Journal* Issue 32, 2016-04-25
 - ["Wikidata as a digital preservation knowledgebase"](https://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/), Euan Cochrane, *Open Preservation Foundation blog*, 2016-09-30
