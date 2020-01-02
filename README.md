@@ -56,19 +56,21 @@ Target guest systems listed in parantheses.
 
 ## Software Download Sites
 
-I have generally had luck with these sites, but be careful out there.
+I have generally had luck with these sites, but be careful out there. (WinWorld is usually the first stop, then try others)
 
-- [WinWorld](https://winworldpc.com/home)
-- [Internet Archive Software Collection](https://archive.org/details/software)
-- [Vetusware.com](https://www.vetusware.com/)
-- [Oldversion.com](http://www.oldversion.com/)
+- [ArchiveOS](https://archiveos.org/)
+- [Bitsavers](http://bitsavers.org/bits)
 - [Macintosh Garden](http://macintoshgarden.org/)
 - [Macintosh Repository](https://www.macintoshrepository.org)
 - [Mac GUI](https://www.macgui.com/)
-- [Bitsavers](http://bitsavers.org/bits)
+- [Internet Archive Software Collection](https://archive.org/details/software)
+- [crawls of Oldapps.com](https://web.archive.org/web/http://www.oldapps.com/)  
+*Note: downloads on the live site at Oldapps.com stopped working some time ago (c. 2017 or 2018), but you can sometimes still snag what you need by going to a Wayback Machine crawl from before that*
+- [Oldversion.com](http://www.oldversion.com/)
 - [Software Heritage source code archive](https://archive.softwareheritage.org/)
-- [ArchiveOS](https://archiveos.org/)
 - [QEMU Advent Calendars](https://www.qemu-advent-calendar.org/)
+- [Vetusware.com](https://www.vetusware.com/)
+- [WinWorld](https://winworldpc.com/home)
 
 #### Mac ROMS
 ssshhh
