@@ -163,6 +163,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - *Re-Collection: Art, New Media and Social Memory*, [Educational Resources](http://re-collection.net/educational_resources.html), Jon Ippolito, Richard Rinehart, 2014
 - ["Cyberspace, the old-fashioned way"](https://rhizome.org/editorial/2015/nov/30/oldweb-today/), *Rhizome blog*, 2015-11-30
 - ["The Theresa Duncan CD-ROMs: Putting interactive classics online with Emulation as a Service"](https://artsandculture.google.com/exhibit/qgIS10kvri3IJw), 2015
+- ["Researcher Access to Born-Digital Collections: an Exploratory Study](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1046&context=jcas), Julia Kim, *Journal of Contemporary Archival Studies, vol. 5*, 2018
 - ["_Floating Time_ with QEMU at the Denver Art Museum](http://www.dylanlorenz.net/files/Floating-Time-with-QEMU-at-the-DAM.pdf), Dylan Lorenz, *dylanlorenz.net*, 2019-09-24
 - ["Introduction to an emulation-based preservation strategy for software-based art works"](https://www.tate.org.uk/download/file/fid/105887), Klaus Rechert, Patricia Falcao, Tom Ensom, *PERICLES Project, Tate*
 
