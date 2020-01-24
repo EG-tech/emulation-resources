@@ -128,6 +128,8 @@ More scholarly considerations of emulation as an access service and digital/soft
 
 ### General
 
+- ["Ensuring the Longevity of Digital Documents"](https://www.jstor.org/stable/24980135), Jeff Rothenberg, *Scientific American*, Vol. 272, No. 1, pp 42-7, 1995-01
+  - [revised, expanded, and open version](https://www.clir.org/wp-content/uploads/sites/6/ensuring.pdf), *Council on Library and Information Resources*, 1999-02-22
 - ["Avoiding Technological Quicksand: Finding a Viable Technical Foundation for Digital Preservation"](https://clir.wordpress.clir.org/wp-content/uploads/sites/6/2016/09/pub77.pdf), Jeff Rothenberg, *A Report to the Council on Library and Information Resources*, 1999
 - ["Emulation as a Digital Preservation Strategy"](http://www.dlib.org/dlib/october00/granger/10granger.html), Stewart Granger, *D-Lib Magazine Vol. 6, No. 10*, 2000
 - ["Software archives as a vital base for digital preservation strategies"](http://eprints.rclis.org/14732/1/OR2010-SoftwareArchives-IEEE.pdf), Dirk von Suchodoletz, Klaus Rechert, Maurice van den Dobbelsteen, 2010
