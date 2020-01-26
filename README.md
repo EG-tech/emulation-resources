@@ -118,7 +118,7 @@ I should also mention that the Internet Archive frequently has scanned manuals a
 
 Some important guidance on copyright concerns when it comes to using emulation for preservation and access purposes. Note that these are limited to United States copyright law.
 
-- [ARL Code of Best Practices in Fair Use for Software Preservation](https://www.arl.org/storage/documents/publications/2018.09.24_softwarepreservationcode.pdf)
+- [ARL Code of Best Practices in Fair Use for Software Preservation](https://www.arl.org/wp-content/uploads/2018/09/2019.2.28-software-preservation-code-revised.pdf)
 - [A Preservationist's Guide to the DMCA Exception for Software Preservation](http://softwarepn.webmasters21.com/wp-content/uploads/2019/01/2018-12_DMCAchecklist_updated_12132018.pdf)
 - ["Intellectual Property Rights Issues for Software Emulation: An Interview with Euan Cochrane, Zach Vowell and Jessica Meyerson"](https://blogs.loc.gov/thesignal/2016/01/intellectual-property-rights-issues-for-software-emulation-an-interview-with-euan-cochrane-zach-vowell-and-jessica-meyerson/), Morgan McKeehan, *The Signal*, 2016-01-22
 
