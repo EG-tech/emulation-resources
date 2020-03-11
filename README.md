@@ -18,6 +18,7 @@ If you have never contributed to GitHub before, feel free to [file a new issue](
 
 Target guest systems listed in parantheses.
 
+- [Wang3300](https://www.wang3300.org/emu.html) and [Wang2200](https://www.wang2200.org/emu.html) (Wang mini/microcomputer series emulators)
 - [BeebEm](http://www.mkw.me.uk/beebem/) (BBC Micro + Master 128)
 - [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
 - [Hatari](https://hatari.tuxfamily.org/) (Atari series)
