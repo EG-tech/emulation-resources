@@ -146,7 +146,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Exploring Email Emulation"](http://www.emailarchivestaskforce.org/documents/exploring-email-emulation/), *Task Force on Technical Approaches for Email Archives*, 2018-03-01
 - ["Preserving Virtual Research Environments - Introducing CiTAR"](https://openpreservation.org/blog/2018/12/12/preserving-virtual-research-environments-introducing-citar-part-1/), Klaus Rechert, *Open Preservation Foundation blog*, 2018-12-12
 - ["Teaching a Young Dog Old Tricks: Emulation Research at the National Library of Scotland"](https://dpconline.org/blog/idpd/emulation-research-nls), Sara Day Thomson, *Digital Preservation Coalition blog*, 2019-11-07
-- ["Evaluating Amnesia"](http://campuspress.yale.edu/borndigital/2020/01/06/emulating-amnesia/), Alice Prael and Ethan Gates, *Saving Digital Stuff blog*, 2020-01-06
+- ["Emulating Amnesia"](http://campuspress.yale.edu/borndigital/2020/01/06/emulating-amnesia/), Alice Prael and Ethan Gates, *Saving Digital Stuff blog*, 2020-01-06
 
 
 ### EaaSI + SPN
