@@ -22,6 +22,7 @@ Target guest systems listed in parantheses.
 - [QDAE](https://www.seasip.info/Unix/QDAE/) (Apricot series and Wang Professional Computer)
 - [BeebEm](http://www.mkw.me.uk/beebem/) (BBC Micro + Master 128)
 - [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
+- [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
 - [Hatari](https://hatari.tuxfamily.org/) (Atari series)
 - [DOSBox](https://www.dosbox.com/) (DOS-based x86 PCs)
 - [PCem](http://pcem-emulator.co.uk/) (x86 PCs)
@@ -103,6 +104,7 @@ ssshhh
 I've received many questions about where I get information about using and configuring old operating systems (and troubleshooting them with various emulation applications). Short answer: wherever search engines take me, even if it's a random forum post from 2004. But there are some vintage computing hobbyist sites and resources that have popped up more often, so a shoutout to those here:
 
 - [Amit Singh (kernelthread.com)](http://www.kernelthread.com/)
+- [Awesome Computer History](https://github.com/watson/awesome-computer-history)
 - [Computer History Wiki](http://gunkies.org/wiki/Main_Page)
 - [Computer Hope](https://www.computerhope.com/)
 - [Info-Mac](https://www.info-mac.org/)
