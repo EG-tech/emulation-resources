@@ -9,7 +9,7 @@ If you have never contributed to GitHub before, feel free to [file a new issue](
 - [Emulators](#emulators)
 - [Software Download Sites](#software-download-sites)
 - [Setup Guides](#setup-guides)
-- [Hobby Blogs](#hobby-blogs)
+- [Hobby Sites and Computer History Resources](#hobby-sites-and-computer-history-resources)
 - [Copyright](#copyright)
 - [Reading](#reading)
 ---
@@ -99,20 +99,27 @@ ssshhh
 - ["How Linux got to be Linux: Test driving 1993-2003 distros"](https://opensource.com/article/16/12/yearbook-linux-test-driving-distros) (includes relevant QEMU configurations and tips for a bunch of older Linux OSes)
 
 
-## Hobby Blogs
+## Hobby Sites and Computer History Resources
 
 I've received many questions about where I get information about using and configuring old operating systems (and troubleshooting them with various emulation applications). Short answer: wherever search engines take me, even if it's a random forum post from 2004. But there are some vintage computing hobbyist sites and resources that have popped up more often, so a shoutout to those here:
 
 - [Amit Singh (kernelthread.com)](http://www.kernelthread.com/)
 - [Awesome Computer History](https://github.com/watson/awesome-computer-history)
+- [Centre for Computing History](http://www.computinghistory.org.uk/pages/590/Search-Our-Archive/)
+- [Computer History Museum](https://computerhistory.org/)
 - [Computer History Wiki](http://gunkies.org/wiki/Main_Page)
 - [Computer Hope](https://www.computerhope.com/)
 - [Info-Mac](https://www.info-mac.org/)
+- [IT History Society](https://www.ithistory.org/)
+- [The Linux Documentation Project](https://www.tldp.org/index.html)
+- [Low End Mac](https://lowendmac.com/)
 - [Macintosh System Error Codes Explained (PreOSX)](http://www.macwizard.com/errors.html)
 - [Old Computer Museum](http://www.oldcomputermuseum.com/default.htm)
+- [Oldlinux.org](http://oldlinux.org/)
 - [The OS Files](http://www.osfiles.com/index.htm)
 - [OS/2 Museum](http://www.os2museum.com/wp/)
 - [System 7 Today](http://forums.system7today.com/)
+- [VintageApple.org](https://vintageapple.org/)
 - [Virtually Fun](https://virtuallyfun.com/wordpress/)
 
 I should also mention that the Internet Archive frequently has scanned manuals and self-help books that you can download or check out from their [eBook library](https://archive.org/details/texts)!
