@@ -70,6 +70,8 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 - [crawls of Oldapps.com](https://web.archive.org/web/http://www.oldapps.com/)  
 *Note: downloads on the live site at Oldapps.com stopped working some time ago (c. 2017 or 2018), but you can sometimes still snag what you need by going to a Wayback Machine crawl from before that*
 - [Oldversion.com](http://www.oldversion.com/)
+- [Old versions of Linux](https://soft.lafibre.info/)
+- [Retrocomputing Archive](http://www.retroarchive.org/)
 - [Software Heritage source code archive](https://archive.softwareheritage.org/)
 - [QEMU Advent Calendars](https://www.qemu-advent-calendar.org/)
 - [Vetusware.com](https://www.vetusware.com/)
@@ -82,6 +84,7 @@ ssshhh
 
 #### Drivers
 - [Drivers for QEMU's emulated devices](http://www.claunia.com/qemu/drivers/)
+- [Drivers Library](http://www.driverslib.com/)
 - [VOGONS Vintage Drivers](http://vogonsdrivers.com/)
 
 
