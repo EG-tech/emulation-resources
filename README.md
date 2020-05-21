@@ -77,10 +77,11 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 - [Vetusware.com](https://www.vetusware.com/)
 - [WinWorld](https://winworldpc.com/home)
 
-#### Mac ROMS
+#### ROMS
 ssshhh
 - https://github.com/macmade/Macintosh-ROMs
 - https://www.macintoshrepository.org/7038-all-macintosh-roms-68k-ppc
+- [SPARC system ROMs](https://github.com/itomato/NeXTSPARC/tree/master/ROMs/SPARC)
 
 #### Drivers
 - [Drivers for QEMU's emulated devices](http://www.claunia.com/qemu/drivers/)
