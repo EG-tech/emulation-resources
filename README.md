@@ -43,6 +43,7 @@ Target guest systems listed in parantheses.
 - [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
 - [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
 - [Shoebill](https://github.com/pruten/shoebill) (Macintosh II, IIx and IIcx emulator that runs A/UX)
+- [Previous](http://previous.alternative-system.com/) (NeXT systems)
 - [SheepShaver](https://sheepshaver.cebix.net/) (PowerPC Macs)
 - [PCE](http://www.hampa.ch/pce/) (Atari ST, IBM PC5150, and 68k Mac emulation)
 - [Bochs](http://bochs.sourceforge.net/) (x86 PC emulation)
