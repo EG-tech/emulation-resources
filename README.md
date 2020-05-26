@@ -95,13 +95,15 @@ ssshhh
 - [QEMU QED](https://eaasi.gitlab.io/qemu-qed)
 - [A Guide to Legacy Mac Emulators](https://patchbay.tech/2018/05/21/a-guide-to-legacy-mac-emulators/)
 - [E-maculation How-Tos](https://emaculation.com/doku.php)
-- [Redundant Robot SheepShaver Tutorial](http://www.redundantrobot.com/sheepshaver.html)
+- [Redundant Robot SheepShaver Tutorial](http://www.redundantrobot.com/sheepshaver)
 - [Running NeXTSTEP in VirtualBox](https://sites.google.com/site/benvirtualbox/home/nextstep)
 - [QEMU Wikibooks info/guides](https://en.wikibooks.org/wiki/QEMU)
 - [QEMU Tutorials, Computer History Wiki](http://gunkies.org/wiki/Category:QEMU_Tutorials)
 - [DOSBox Wiki](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox)
 - [Windows 95/98 Guest OSes in VirtualBox](https://forums.virtualbox.org/viewtopic.php?f=2&t=33359&start=30)
 - ["How Linux got to be Linux: Test driving 1993-2003 distros"](https://opensource.com/article/16/12/yearbook-linux-test-driving-distros) (includes relevant QEMU configurations and tips for a bunch of older Linux OSes)
+- ["Build your own SPARC with QEMU and Solaris"](https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris?view=all) (how to set up and configure Solaris with qemu-system-sparc)
+  - [Getting Started with Solaris 2.6](https://gekk.info/articles/solaris26.htm) (builds off the previous tutorial, adds instructions for running/using particular programs)
 
 
 ## Hobby Sites and Computer History Resources
