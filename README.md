@@ -15,50 +15,60 @@ If you have never contributed to GitHub before, feel free to [file a new issue](
 ---
 
 ## Emulators
+Organized by target system.
 
-Target guest systems listed in parantheses.
-
-- [Wang3300](https://www.wang3300.org/emu.html) and [Wang2200](https://www.wang2200.org/emu.html) (Wang mini/microcomputer series emulators)
-- [QDAE](https://www.seasip.info/Unix/QDAE/) (Apricot series and Wang Professional Computer)
-- [BeebEm](http://www.mkw.me.uk/beebem/) (BBC Micro + Master 128)
-- [Arculator](http://b-em.bbcmicro.com/arculator/index.html) (Acorn Archimedes)
-- [RPCEmu](http://www.marutan.net/rpcemu/index.php) (various Acorn + RiscPC machines)
-- [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
-- [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
-- [Hatari](https://hatari.tuxfamily.org/) (Atari series)
+#### x86 PCs
 - [DOSBox](https://www.dosbox.com/) (DOS-based x86 PCs)
 - [PCem](http://pcem-emulator.co.uk/) (x86 PCs)
-- [UAE](https://amiga.technology/) (Amiga series)
-  - [WinUAE](http://www.winuae.net/) (port for Windows)
-  - [FS-UAE](https://fs-uae.net/) (port for Mac, Linux, Windows)  
-
-- [Amiga Forever](https://www.amigaforever.com/) (Amiga)
-- [CCS64](http://ccs64.com/) (Commodore 64)
-- [VICE](http://vice-emu.sourceforge.net/) (Commodore series)
-- [MAME/MESS](https://www.mamedev.org/) ([wide variety](http://www.progettoemma.net/mess/) of arcade/video game machines and vintage CPUs)
-- [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) (Xerox Alto)
-- [KEGS](http://kegs.sourceforge.net/) (Apple IIgs)
-- [AppleWin](https://github.com/applewin/applewin) (Apple II, for Windows)
-  - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)  
-
-- [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/) (68k Mac emulator w/no need for ROMs or system software)
-- [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
-- [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
-- [Shoebill](https://github.com/pruten/shoebill) (Macintosh II, IIx and IIcx emulator that runs A/UX)
-- [Previous](http://previous.alternative-system.com/) (NeXT systems)
-- [SheepShaver](https://sheepshaver.cebix.net/) (PowerPC Macs)
-- [PCE](http://www.hampa.ch/pce/) (Atari ST, IBM PC5150, and 68k Mac emulation)
 - [Bochs](http://bochs.sourceforge.net/) (x86 PC emulation)
-- [QEMU](https://www.qemu.org/) (x86 PC virtualization, PowerPC, SPARC, ARM, MIPS emulation and more)
+- [Microsoft Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3702) (x86 PC virtualization)
+- [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
+- [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
+- [QEMU](https://www.qemu.org/) (x86 PC virtualization)
   - [QEMU Manager](http://www.davereyn.co.uk/) (QEMU front-end; Windows-only)
   - [AQEMU](https://github.com/tobimensch/aqemu) (QEMU front-end, not actively developed and must be compiled from source)
   - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)  
 
-- [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
-- [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
-- [Microsoft Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3702) (x86 PC virtualization)
-
+#### Apple
+- [AppleWin](https://github.com/applewin/applewin) (Apple II, for Windows)
+  - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)
+- [Virtual II](https://www.virtualii.com/) (Apple II, for MacOS)
+- [KEGS](http://kegs.sourceforge.net/) (Apple IIgs)
+- [Shoebill](https://github.com/pruten/shoebill) (Macintosh II, IIx and IIcx emulator that runs A/UX)
+- [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/) (68k Mac emulator w/no need for ROMs or system software)
+- [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
+- [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
+- [SheepShaver](https://sheepshaver.cebix.net/) (PowerPC Macs)
+- [QEMU](https://www.qemu.org/) (also does PowerPC emulation, OS 9.2.x-OSX)
 - .... and keeping an eye on [Spoiled Apples](https://avpres.net/Spoiled_Apples/)
+
+#### Commodore
+- [CCS64](http://ccs64.com/) (Commodore 64, for Windows)
+- [VICE](http://vice-emu.sourceforge.net/) (Commodore series)
+- [UAE](https://amiga.technology/) (Amiga series)
+  - [WinUAE](http://www.winuae.net/) (port for Windows)
+  - [FS-UAE](https://fs-uae.net/) (port for Mac, Linux, Windows)  
+- [Amiga Forever](https://www.amigaforever.com/) (Amiga)
+
+#### Acorn
+- [BeebEm](http://www.mkw.me.uk/beebem/) (BBC Micro + Master 128)
+- [Arculator](http://b-em.bbcmicro.com/arculator/index.html) (Acorn Archimedes)
+- [RPCEmu](http://www.marutan.net/rpcemu/index.php) (various Acorn + RiscPC machines)
+
+#### Wang
+- [Wang3300](https://www.wang3300.org/emu.html) and [Wang2200](https://www.wang2200.org/emu.html) (Wang mini/microcomputer series emulators)
+- [QDAE](https://www.seasip.info/Unix/QDAE/) (Apricot series and Wang Professional Computer)
+
+#### Multi-System
+- [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
+- [MAME/MESS](https://www.mamedev.org/) ([wide variety](http://www.progettoemma.net/mess/) of arcade/video game machines and vintage CPUs)
+- [PCE](http://www.hampa.ch/pce/) (Atari ST, IBM PC5150, and 68k Mac emulation)
+- [QEMU](https://www.qemu.org/) (can also do various SPARC, MiPS, ARM, RISC-V, and other machines, see https://wiki.qemu.org/Documentation/Platforms)
+
+#### Other
+- [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
+- [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) (Xerox Alto)
+- [Previous](http://previous.alternative-system.com/) (NeXT systems)
 
 ## Software Download Sites
 
