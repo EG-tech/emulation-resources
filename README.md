@@ -21,6 +21,7 @@ Target guest systems listed in parantheses.
 - [Wang3300](https://www.wang3300.org/emu.html) and [Wang2200](https://www.wang2200.org/emu.html) (Wang mini/microcomputer series emulators)
 - [QDAE](https://www.seasip.info/Unix/QDAE/) (Apricot series and Wang Professional Computer)
 - [BeebEm](http://www.mkw.me.uk/beebem/) (BBC Micro + Master 128)
+- [Arculator](http://b-em.bbcmicro.com/arculator/index.html) (Acorn Archimedes)
 - [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
 - [Hatari](https://hatari.tuxfamily.org/) (Atari series)
