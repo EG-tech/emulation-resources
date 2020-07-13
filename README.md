@@ -22,6 +22,7 @@ Target guest systems listed in parantheses.
 - [QDAE](https://www.seasip.info/Unix/QDAE/) (Apricot series and Wang Professional Computer)
 - [BeebEm](http://www.mkw.me.uk/beebem/) (BBC Micro + Master 128)
 - [Arculator](http://b-em.bbcmicro.com/arculator/index.html) (Acorn Archimedes)
+- [RPCEmu](http://www.marutan.net/rpcemu/index.php) (various Acorn + RiscPC machines)
 - [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
 - [Hatari](https://hatari.tuxfamily.org/) (Atari series)
@@ -84,6 +85,7 @@ ssshhh
 - https://github.com/macmade/Macintosh-ROMs
 - https://www.macintoshrepository.org/7038-all-macintosh-roms-68k-ppc
 - [SPARC system ROMs](https://github.com/itomato/NeXTSPARC/tree/master/ROMs/SPARC)
+- [RISC OS ROMs](https://www.4corn.co.uk/aview.php?sPath=/roms)
 
 #### Drivers
 - [Drivers for QEMU's emulated devices](http://www.claunia.com/qemu/drivers/)
@@ -111,6 +113,7 @@ ssshhh
 
 I've received many questions about where I get information about using and configuring old operating systems (and troubleshooting them with various emulation applications). Short answer: wherever search engines take me, even if it's a random forum post from 2004. But there are some vintage computing hobbyist sites and resources that have popped up more often, so a shoutout to those here:
 
+- [4corn Computers](https://www.4corn.co.uk)
 - [Amit Singh (kernelthread.com)](http://www.kernelthread.com/)
 - [Awesome Computer History](https://github.com/watson/awesome-computer-history)
 - [Centre for Computing History](http://www.computinghistory.org.uk/pages/590/Search-Our-Archive/)
