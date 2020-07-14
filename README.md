@@ -30,11 +30,13 @@ Organized by target system.
   - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)  
 
 #### Apple
+- [microM8](https://paleotronic.com/software/microm8/download/) (Apple II)
 - [AppleWin](https://github.com/applewin/applewin) (Apple II, for Windows)
   - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)
 - [Virtual II](https://www.virtualii.com/) (Apple II, for MacOS)
 - [KEGS](http://kegs.sourceforge.net/) (Apple IIgs)
 - [Shoebill](https://github.com/pruten/shoebill) (Macintosh II, IIx and IIcx emulator that runs A/UX)
+- [LisaEm](https://lisa.sunder.net/) (Apple Lisa, for macOS + Linux)
 - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/) (68k Mac emulator w/no need for ROMs or system software)
 - [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
 - [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
@@ -48,12 +50,14 @@ Organized by target system.
 - [UAE](https://amiga.technology/) (Amiga series)
   - [WinUAE](http://www.winuae.net/) (port for Windows)
   - [FS-UAE](https://fs-uae.net/) (port for Mac, Linux, Windows)  
-- [Amiga Forever](https://www.amigaforever.com/) (Amiga)
+- [Amiga Forever](https://www.amigaforever.com/) (Amiga, commercial product)
+- [WinFellow](https://petschau.github.io/WinFellow/) (Amiga)
 
 #### Acorn
 - [BeebEm](http://www.mkw.me.uk/beebem/) (BBC Micro + Master 128)
 - [Arculator](http://b-em.bbcmicro.com/arculator/index.html) (Acorn Archimedes)
 - [RPCEmu](http://www.marutan.net/rpcemu/index.php) (various Acorn + RiscPC machines)
+- [VirtualRPC](http://www.virtualacorn.co.uk/product.htm) (RiscPC, commercial product)
 
 #### Wang
 - [Wang3300](https://www.wang3300.org/emu.html) and [Wang2200](https://www.wang2200.org/emu.html) (Wang mini/microcomputer series emulators)
