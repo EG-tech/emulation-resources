@@ -80,6 +80,7 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 
 - [ArchiveOS](https://archiveos.org/)
 - [Bitsavers](http://bitsavers.org/bits)
+- [Hobbes OS/2 Archive](https://hobbes.nmsu.edu/)
 - [Macintosh Garden](http://macintoshgarden.org/)
 - [Macintosh Repository](https://www.macintoshrepository.org)
 - [Mac GUI](https://www.macgui.com/)
