@@ -137,6 +137,7 @@ I've received many questions about where I get information about using and confi
 - [Computer Hope](https://www.computerhope.com/)
 - [Info-Mac](https://www.info-mac.org/)
 - [IT History Society](https://www.ithistory.org/)
+- [kraxel's news](https://www.kraxel.org/blog/)
 - [The Linux Documentation Project](https://www.tldp.org/index.html)
 - [Low End Mac](https://lowendmac.com/)
 - [Macintosh System Error Codes Explained (PreOSX)](http://www.macwizard.com/errors.html)
