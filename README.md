@@ -199,6 +199,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Making Things EaaSIer: Overview from EaaSI's PI"](https://www.softwarepreservationnetwork.org/blog/making-things-eaasier-overview-from-eaasis-pi/), Euan Cochrane, *EaaSI Blog*, 2019-02-11
 - ["Towards a Universal Virtual Interactor (UVI) for Digital Objects"](https://ipres2019.org/static/pdf/iPres2019_paper_128.pdf), Euan Cochrane, Klaus Rechert, Seth Anderson, Ethan Gates, Jessica Meyerson, *16th International Conference on Digital Preservation (iPRES)*, 2019
 - ["Preserving and Integrating Community Knowledge of Computing Systems"](https://dpconline.org/blog/idpd/preserving-and-integrating-community-knowledge), Ethan Gates, *Digital Preservation Coalition blog*, 2019-11-07
+- ["Sustaining Software Preservation Efforts Through Use and Communities of Practice"](https://doi.org/10.2218/ijdc.v15i1.696), Fernando Rios, Monqiue Lassere, Judd Ethan Ruggill, Ken S. McAllister, *International Journal of Digital Curation, Vol. 15 No. 1*, 2020-08-02
 - ["Software Preservation Bibliography"](https://www.zotero.org/software-preservation/items), Zotero library maintained by SPN's Training & Education Working Group
 - Recorded webinars + resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
 
