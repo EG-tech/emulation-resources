@@ -172,6 +172,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 
 - ["Ensuring the Longevity of Digital Documents"](https://www.jstor.org/stable/24980135), Jeff Rothenberg, *Scientific American*, Vol. 272, No. 1, pp 42-7, 1995-01
   - [revised, expanded, and open version](https://www.clir.org/wp-content/uploads/sites/6/ensuring.pdf), *Council on Library and Information Resources*, 1999-02-22
+- ["Metadata to Support Data Quality and Longevity"](https://web.archive.org/web/19990202095702/http://www.computer.org/conferen/meta96/rothenberg_paper/ieee.data-quality.html), Jeff Rothenberg, *The First IEEE Metadata Conference*, NOAA Auditorium, Silver Spring, MD, 1996-04-16
 - ["Avoiding Technological Quicksand: Finding a Viable Technical Foundation for Digital Preservation"](https://clir.wordpress.clir.org/wp-content/uploads/sites/6/2016/09/pub77.pdf), Jeff Rothenberg, *A Report to the Council on Library and Information Resources*, 1999
 - ["Using Emulation to Preserve Digital Documents"](https://www.imaginar.org/taller/dppd/DPPD/148%20pp%20usingemulation.pdf), Jeff Rothenberg, *Koninklijke Bibliotheek*, 2000-07
 - ["Emulation as a Digital Preservation Strategy"](http://www.dlib.org/dlib/october00/granger/10granger.html), Stewart Granger, *D-Lib Magazine Vol. 6, No. 10*, 2000
