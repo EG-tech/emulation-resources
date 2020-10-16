@@ -10,6 +10,7 @@ If you have never contributed to GitHub before, feel free to [file a new issue](
 - [Software Download Sites](#software-download-sites)
 - [Setup Guides](#setup-guides)
 - [Hobby Sites and Computer History Resources](#hobby-sites-and-computer-history-resources)
+- [Hardware Emulators](#hardware-emulators)
 - [Copyright](#copyright)
 - [Reading](#reading)
 ---
@@ -110,7 +111,6 @@ ssshhh
 
 
 ## Setup Guides
-
 - [QEMU QED](https://eaasi.gitlab.io/program-docs/qemu-qed)
 - [A Guide to Legacy Mac Emulators](https://patchbay.tech/2018/05/21/a-guide-to-legacy-mac-emulators/)
 - [E-maculation How-Tos](https://emaculation.com/doku.php)
@@ -127,7 +127,6 @@ ssshhh
 
 
 ## Hobby Sites and Computer History Resources
-
 I've received many questions about where I get information about using and configuring old operating systems (and troubleshooting them with various emulation applications). Short answer: wherever search engines take me, even if it's a random forum post from 2004. But there are some vintage computing hobbyist sites and resources that have popped up more often, so a shoutout to those here:
 
 - [4corn Computers](https://www.4corn.co.uk)
@@ -156,9 +155,22 @@ I've received many questions about where I get information about using and confi
 
 I should also mention that the Internet Archive frequently has scanned manuals and self-help books that you can download or check out from their [eBook library](https://archive.org/details/texts)!
 
+## Hardware Emulators
+[Hardware emulation](https://en.wikipedia.org/wiki/Hardware_emulation) refers to the process of imitating one piece of hardware with another piece of hardware. Its utility is a little unclear in preservation and archiving use cases - part of the advantage of software emulation is the portability and flexibility of working in virtual environments.
+
+Hardware emulation projects are frequently pushed forward by retro-computing and gaming hobbyists who want, for example, to maintain and use legacy computers without relying on fragile and no-longer-produced digital media (i.e. floppy disks, CD-ROMs) or parts.
+
+They're pretty neat though, so I thought I'd include them here.
+
+#### Floppy Drive Emulators
+- [HxC](https://hxc2001.com/)
+- [Floppy Emu](https://www.bigmessowires.com/floppy-emu/)
+- [GOTEK](https://www.philscomputerlab.com/gotek-floppy-emulator.html)
+
+#### FPGAs
+- [MiSTer](https://www.retrorgb.com/mister.html)
 
 ## Copyright
-
 Some important guidance on copyright concerns when it comes to using emulation for preservation and access purposes. Note that these are limited to United States copyright law.
 
 - [ARL Code of Best Practices in Fair Use for Software Preservation](https://www.arl.org/wp-content/uploads/2018/09/2019.2.28-software-preservation-code-revised.pdf)
@@ -166,11 +178,9 @@ Some important guidance on copyright concerns when it comes to using emulation f
 - ["Intellectual Property Rights Issues for Software Emulation: An Interview with Euan Cochrane, Zach Vowell and Jessica Meyerson"](https://blogs.loc.gov/thesignal/2016/01/intellectual-property-rights-issues-for-software-emulation-an-interview-with-euan-cochrane-zach-vowell-and-jessica-meyerson/), Morgan McKeehan, *The Signal*, 2016-01-22
 
 ## Reading
-
 More scholarly considerations of emulation as an access service and digital/software preservation, and/or summaries of emulation used in cultural heritage projects:
 
 ### General
-
 - ["Ensuring the Longevity of Digital Documents"](https://www.jstor.org/stable/24980135), Jeff Rothenberg, *Scientific American*, Vol. 272, No. 1, pp 42-7, 1995-01
   - [revised, expanded, and open version](https://www.clir.org/wp-content/uploads/sites/6/ensuring.pdf), *Council on Library and Information Resources*, 1999-02-22
 - ["Metadata to Support Data Quality and Longevity"](https://web.archive.org/web/19990202095702/http://www.computer.org/conferen/meta96/rothenberg_paper/ieee.data-quality.html), Jeff Rothenberg, *The First IEEE Metadata Conference*, NOAA Auditorium, Silver Spring, MD, 1996-04-16
@@ -202,7 +212,6 @@ More scholarly considerations of emulation as an access service and digital/soft
 
 
 ### EaaSI + SPN
-
 - ["Emulation as a Service (EaaS) at Yale University Library](https://blogs.loc.gov/thesignal/2014/08/emulation-as-a-service-eaas-at-yale-university-library/), Euan Cochrane, *The Signal*, 2014-08-20
 - ["Software Preservation Literature Review"](https://osf.io/abk2g/), Jessica Meyerson, *Educopia Institute/SPN*, Fall 2017
 - ["Designing a Universal Virtual Interactor for digital objects"](https://dpconline.org/blog/idpd/designing-a-uvi-for-digital-objects), Euan Cochrane, *Digital Preservation Coalition blog*, 2018-11-23
@@ -215,7 +224,6 @@ More scholarly considerations of emulation as an access service and digital/soft
 
 
 ### Art and Exhibition
-
 - ["Final Report, _Erl-King_ Project"](https://www.guggenheim.org/wp-content/uploads/2015/11/guggenheim-conservation-treatment-report-erl-king-project-2004.pdf), Isaac Dimitrovsky, 2004-04-01
 - *Re-Collection: Art, New Media and Social Memory*, [Educational Resources](http://re-collection.net/educational_resources.html), Jon Ippolito, Richard Rinehart, 2014
 - ["Cyberspace, the old-fashioned way"](https://rhizome.org/editorial/2015/nov/30/oldweb-today/), *Rhizome blog*, 2015-11-30
