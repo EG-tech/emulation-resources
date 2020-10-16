@@ -111,7 +111,7 @@ ssshhh
 
 ## Setup Guides
 
-- [QEMU QED](https://eaasi.gitlab.io/qemu-qed)
+- [QEMU QED](https://eaasi.gitlab.io/program-docs/qemu-qed)
 - [A Guide to Legacy Mac Emulators](https://patchbay.tech/2018/05/21/a-guide-to-legacy-mac-emulators/)
 - [E-maculation How-Tos](https://emaculation.com/doku.php)
 - [Redundant Robot SheepShaver Tutorial](http://www.redundantrobot.com/sheepshaver)
