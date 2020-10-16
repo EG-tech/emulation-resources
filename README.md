@@ -72,6 +72,7 @@ Organized by target system.
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
 - [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) (Xerox Alto)
+- [KLH10](http://klh10.trailing-edge.com/) (PDP-10 series)
 - [Previous](http://previous.alternative-system.com/) (NeXT systems)
 
 ## Software Download Sites
@@ -223,7 +224,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Researcher Access to Born-Digital Collections: an Exploratory Study](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=1046&context=jcas), Julia Kim, *Journal of Contemporary Archival Studies, vol. 5*, 2018
 - ["_Floating Time_ with QEMU at the Denver Art Museum](http://www.dylanlorenz.net/files/Floating-Time-with-QEMU-at-the-DAM.pdf), Dylan Lorenz, *dylanlorenz.net*, 2019-09-24
 - ["Introduction to an emulation-based preservation strategy for software-based art works"](https://www.tate.org.uk/download/file/fid/105887), Klaus Rechert, Patricia Falcao, Tom Ensom, *PERICLES Project, Tate*
-
+- [Christine Tamblyn's Interactive CD-ROM Artworks](https://sites.google.com/view/tamblynproject), Carolina Quezada Meneses, *UC Irvine Libraries Special Collections & Archives*, 2020
 
 
 ### Repository Copyright
