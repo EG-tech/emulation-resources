@@ -223,6 +223,8 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Sustaining Software Preservation Efforts Through Use and Communities of Practice"](https://doi.org/10.2218/ijdc.v15i1.696), Fernando Rios, Monqiue Lassere, Judd Ethan Ruggill, Ken S. McAllister, *International Journal of Digital Curation, Vol. 15 No. 1*, 2020-08-02
 - ["Software Preservation Bibliography"](https://www.zotero.org/software-preservation/items), Zotero library maintained by SPN's Training & Education Working Group
 - Recorded webinars + resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
+- EaaSI Training Modules:
+  - [#1: Emulation Environments](https://www.softwarepreservationnetwork.org/eaasi-training-module-emulation-environments/)
 
 
 ### Art and Exhibition
