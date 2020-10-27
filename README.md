@@ -152,6 +152,7 @@ I've received many questions about where I get information about using and confi
 - [OS/2 Museum](http://www.os2museum.com/wp/)
 - [RetroWeb Vintage Computer Museum](http://retroweb.maclab.org/)
 - [System 7 Today](http://forums.system7today.com/)
+- [The Ultimate Computer Acronyms Archive](/PDFs/Computer_Acronyms_Archive.pdf)
 - [VintageApple.org](https://vintageapple.org/)
 - [Virtually Fun](https://virtuallyfun.com/wordpress/)
 
