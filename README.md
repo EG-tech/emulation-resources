@@ -203,6 +203,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["The Digital Life of Salman Rushdie"](https://www.newyorker.com/tech/annals-of-technology/digital-life-salman-rushdie), Dan Rockmore, *The New Yorker*, 2014-07-29
 - ["The Emularity"](http://ascii.textfiles.com/archives/4546), Jason Scott, 2015-01-23
 - ["Characterization of CD-ROMs for Emulation-based Access"](https://services.phaidra.univie.ac.at/api/object/o:429556/diss/Content/get), Klaus Rechert, Thomas Liebetraut, Oleg Stobbe, Isgandar Valizada, Tobias Steinke, *12th International Conference on Digital Preservation (iPRES)*, 2015
+- ["Functional Access to Forensic Disk Images in a Web Service"](https://kamwoods.net/publications/woods_functional-access-to-forensic-disk-images.pdf), Kam Woods, Christopher A. Lee, Oleg Stobbe, Thomas Liebetraut, Klaus Rechert, *12th International Conference on Digital Preservation (iPRES)*, 2015
 - ["Emulation and Virtualization as Preservation Strategies"](https://mellon.org/media/filer_public/0c/3e/0c3eee7d-4166-4ba6-a767-6b42e6a1c2a7/rosenthal-emulation-2015.pdf), David Rosenthal, *Mellon Foundation*, 2015
 - ["How to Party Like It's 1999: Emulation for Everyone"](https://journal.code4lib.org/articles/11386), Dianne Dietrich, Julia Kim, Morgan McKeehan, and Alison Rhonemus, *The Code4Lib Journal* Issue 32, 2016-04-25
 - ["Wikidata as a digital preservation knowledgebase"](https://openpreservation.org/blog/2016/09/30/wikidata-as-a-digital-preservation-knowledgebase/), Euan Cochrane, *Open Preservation Foundation blog*, 2016-09-30
