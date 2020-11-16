@@ -215,6 +215,9 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Teaching a Young Dog Old Tricks: Emulation Research at the National Library of Scotland"](https://dpconline.org/blog/idpd/emulation-research-nls), Sara Day Thomson, *Digital Preservation Coalition blog*, 2019-11-07
 - ["Emulating Amnesia"](http://campuspress.yale.edu/borndigital/2020/01/06/emulating-amnesia/), Alice Prael and Ethan Gates, *Saving Digital Stuff blog*, 2020-01-06
 - ["Emulation Encounters: Software Preservation in Libraries, Archives, And Museums"](https://www.softwarepreservationnetwork.org/wp-content/uploads/2020/06/Emulation-Encounters_Acker_RESEARCH.pdf), Amelia Acker, *PRE-PRINT Proceedings of the 83rd Annual Meeting of the Association for Information Science & Technology*, 2020-06-26
+- ["Metaphors for Understanding Born Digital Collection Access: Part III (Emulation or Strange Magic)"](https://blogs.loc.gov/thesignal/2020/08/metaphors-for-understanding-born-digital-collection-access-part-iii/), Kathleen O'Neill, *The Signal*, 2020-08-28
+- ["Emulating Networks - Preserving Access to Webservers"](https://openpreservation.org/blogs/emulating-networks-preserving-access-to-webservers/), Klaus Rechert, *Open Preservation Foundation blog*, 2020-11-05
+- ["An Archivist's Perspective on Legacy Files"](https://blogs.loc.gov/thesignal/2020/11/an-archivists-perspective-on-legacy-files/), Chad Conrady, *The Signal*, 2020-11-16
 
 
 ### EaaSI + SPN
@@ -225,6 +228,8 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Towards a Universal Virtual Interactor (UVI) for Digital Objects"](https://ipres2019.org/static/pdf/iPres2019_paper_128.pdf), Euan Cochrane, Klaus Rechert, Seth Anderson, Ethan Gates, Jessica Meyerson, *16th International Conference on Digital Preservation (iPRES)*, 2019
 - ["Preserving and Integrating Community Knowledge of Computing Systems"](https://dpconline.org/blog/idpd/preserving-and-integrating-community-knowledge), Ethan Gates, *Digital Preservation Coalition blog*, 2019-11-07
 - ["Sustaining Software Preservation Efforts Through Use and Communities of Practice"](https://doi.org/10.2218/ijdc.v15i1.696), Fernando Rios, Monqiue Lassere, Judd Ethan Ruggill, Ken S. McAllister, *International Journal of Digital Curation, Vol. 15 No. 1*, 2020-08-02
+- ["The EaaSI Interaction API"](https://www.dpconline.org/blog/wdpd/blog-euan-cochrane-wdpd), Euan Cochrane, *Digital Preservation Coalition blog*, 2020-11-05
+- ["Introducing the YUL Emulation Viewer](https://campuspress.yale.edu/borndigital/2020/11/05/introducing-the-yul-emulation-viewer/), Seth Anderson, *Saving Digital Stuff blog*, 2020-11-05
 - ["Software Preservation Bibliography"](https://www.zotero.org/software-preservation/items), Zotero library maintained by SPN's Training & Education Working Group
 - Recorded webinars + resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
 - EaaSI Training Modules:
