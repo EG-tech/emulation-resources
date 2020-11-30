@@ -216,6 +216,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Emulating Amnesia"](http://campuspress.yale.edu/borndigital/2020/01/06/emulating-amnesia/), Alice Prael and Ethan Gates, *Saving Digital Stuff blog*, 2020-01-06
 - ["Emulation Encounters: Software Preservation in Libraries, Archives, And Museums"](https://www.softwarepreservationnetwork.org/wp-content/uploads/2020/06/Emulation-Encounters_Acker_RESEARCH.pdf), Amelia Acker, *PRE-PRINT Proceedings of the 83rd Annual Meeting of the Association for Information Science & Technology*, 2020-06-26
 - ["Metaphors for Understanding Born Digital Collection Access: Part III (Emulation or Strange Magic)"](https://blogs.loc.gov/thesignal/2020/08/metaphors-for-understanding-born-digital-collection-access-part-iii/), Kathleen O'Neill, *The Signal*, 2020-08-28
+- ["Emulation as a Service for Heritage Institutions: Test Report"](https://www.netwerkdigitaalerfgoed.nl/wp-content/uploads/2020/11/Emulation-as-a-Service-Test-Report.pdf), Eoin O’Donohoe, *Dutch Digital Heritage Network*, 10-2020
 - ["Emulating Networks - Preserving Access to Webservers"](https://openpreservation.org/blogs/emulating-networks-preserving-access-to-webservers/), Klaus Rechert, *Open Preservation Foundation blog*, 2020-11-05
 - ["An Archivist's Perspective on Legacy Files"](https://blogs.loc.gov/thesignal/2020/11/an-archivists-perspective-on-legacy-files/), Chad Conrady, *The Signal*, 2020-11-16
 
