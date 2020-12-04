@@ -81,6 +81,7 @@ Organized by target system.
 I have generally had luck with these sites, but be careful out there. (WinWorld is usually the first stop, then try others)
 
 - [ArchiveOS](https://archiveos.org/)
+- [BeBytes](https://www.be.wildman-productions.org/index.php)
 - [Bitsavers](http://bitsavers.org/bits)
 - [Dave's Old Computers](http://www.classiccmp.org/dunfield/img/index.htm)
 - [Hobbes OS/2 Archive](https://hobbes.nmsu.edu/)
@@ -92,6 +93,7 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 *Note: downloads on the live site at Oldapps.com stopped working some time ago (c. 2017 or 2018), but you can sometimes still snag what you need by going to a Wayback Machine crawl from before that*
 - [Oldversion.com](http://www.oldversion.com/)
 - [Old versions of Linux](https://soft.lafibre.info/)
+- [PulkoMandy's BeOS software archive](http://pulkomandy.tk/~beosarchive/)
 - [Retrocomputing Archive](http://www.retroarchive.org/)
 - [Software Heritage source code archive](https://archive.softwareheritage.org/)
 - [QEMU Advent Calendars](https://www.qemu-advent-calendar.org/)
@@ -117,6 +119,7 @@ ssshhh
 - [E-maculation How-Tos](https://emaculation.com/doku.php)
 - [Redundant Robot SheepShaver Tutorial](http://www.redundantrobot.com/sheepshaver)
 - [Running NeXTSTEP in VirtualBox](https://sites.google.com/site/benvirtualbox/home/nextstep)
+- [Installing NextStep OS (OpenStep) in VirtualBox](https://stuffjasondoes.com/2018/07/25/installing-nextstep-os-openstep-on-virtualbox-in-2018/)
 - [QEMU Wikibooks info/guides](https://en.wikibooks.org/wiki/QEMU)
 - [QEMU Tutorials, Computer History Wiki](http://gunkies.org/wiki/Category:QEMU_Tutorials)
 - [DOSBox Wiki](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox)
@@ -125,6 +128,11 @@ ssshhh
 - ["Build your own SPARC with QEMU and Solaris"](https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris?view=all) (how to set up and configure Solaris with qemu-system-sparc)
   - [Getting Started with Solaris 2.6](https://gekk.info/articles/solaris26.htm) (builds off the previous tutorial, adds instructions for running/using particular programs)
 - ["Running Mac OS X as a QEMU/KVM Guest"](https://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/)
+- ["Running Dano (BeOS) in Qemu"](https://discuss.haiku-os.org/t/running-dano-in-qemu/4354)
+- ["Build your own BeBox and run BeOS using Virtualbox"](https://learn.adafruit.com/build-a-bebox-with-beos-and-virtualbox?view=all#overview)
+- ["OS/2 Warp 4 and QEMU"](https://sites.mpc.com.br/ric/qemu/index.html)
+- ["QEMU with OS/2 Warp 3 as Guest"](https://wiki.gentoo.org/wiki/QEMU/OS2WarpV3_guest)
+- ["OS/2 on Virtualbox Guide"](https://gekk.info/articles/os2.html)
 
 
 ## Hobby Sites and Computer History Resources
