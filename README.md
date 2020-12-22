@@ -83,6 +83,7 @@ Organized by target system.
 I have generally had luck with these sites, but be careful out there. (WinWorld is usually the first stop, then try others)
 
 - [ArchiveOS](https://archiveos.org/)
+- [Asimov](https://ftp.apple.asimov.net)
 - [BeBytes](https://www.be.wildman-productions.org/index.php)
 - [Bitsavers](http://bitsavers.org/bits)
 - [Dave's Old Computers](http://www.classiccmp.org/dunfield/img/index.htm)
@@ -168,6 +169,7 @@ I've received many questions about where I get information about using and confi
 - [The Ultimate Computer Acronyms Archive](/PDFs/Computer_Acronyms_Archive.pdf)
 - [VintageApple.org](https://vintageapple.org/)
 - [Virtually Fun](https://virtuallyfun.com/wordpress/)
+- [What is the Apple IIGS](https://www.whatisthe2gs.apple2.org.za/final-assault.html)
 
 I should also mention that the Internet Archive frequently has scanned manuals and self-help books that you can download or check out from their [eBook library](https://archive.org/details/texts)!
 
