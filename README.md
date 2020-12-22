@@ -36,6 +36,7 @@ Organized by target system.
   - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)
 - [Virtual II](https://www.virtualii.com/) (Apple II, for MacOS)
 - [KEGS](http://kegs.sourceforge.net/) (Apple IIgs)
+- [GSPlus](https://apple2.gs/plus/) (Apple IIgs, based on KEGS, nice interface)
 - [LisaEm](https://lisa.sunder.net/) (Apple Lisa, for macOS + Linux)
 - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/) (68k Mac emulator w/no need for ROMs or system software)
 - [Shoebill](https://github.com/pruten/shoebill) (Macintosh II, IIx and IIcx emulator that runs A/UX)
