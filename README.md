@@ -250,7 +250,9 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Software Preservation Bibliography"](https://www.zotero.org/software-preservation/items), Zotero library maintained by SPN's Training & Education Working Group
 - Recorded webinars + resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
 - EaaSI Training Modules:
-  - [#1: Emulation Environments](https://www.softwarepreservationnetwork.org/eaasi-training-module-emulation-environments/)
+  - [#1: Emulation Environments](https://www.softwarepreservationnetwork.org/eaasi-training-module-emulation-environments/), 2020-10
+- EaaSI Case Studies:
+  - [#1: The Would-Be Gentleman](https://www.softwarepreservationnetwork.org/eaasi-case-study-1-the-would-be-gentleman/), 2021-01
 
 
 ### Art and Exhibition
