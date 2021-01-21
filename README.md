@@ -183,7 +183,7 @@ JavaScript emulation has many advantages, especially that it makes emulated comp
 
 There are A LOT of emulators written in JavaScript, and I have found an already-existing list organized very similar to my own, so instead of recreating that work I will just link it here:
 
- - [Emulators written in Javascript]((https://github.com/fcambus/jsemu)), by @fcampbus on GitHub
+ - [Emulators written in Javascript](https://github.com/fcambus/jsemu), by @fcampbus on GitHub
 
 
 ## Hardware Emulators
