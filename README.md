@@ -10,6 +10,7 @@ If you have never contributed to GitHub before, feel free to [file a new issue](
 - [Software Download Sites](#software-download-sites)
 - [Setup Guides](#setup-guides)
 - [Hobby Sites and Computer History Resources](#hobby-sites-and-computer-history-resources)
+- [Emulators Written in JavaScript](#emulators-written-in-javascript)
 - [Hardware Emulators](#hardware-emulators)
 - [Copyright](#copyright)
 - [Reading](#reading)
@@ -75,7 +76,7 @@ Organized by target system.
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
 - [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) (Xerox Alto)
-- [KLH10](http://klh10.trailing-edge.com/) (PDP-10 series)
+- [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
 - [Previous](http://previous.alternative-system.com/) (NeXT systems)
 - [Ruffle](https://ruffle.rs/) (Flash Player emulator)
 
@@ -172,7 +173,18 @@ I've received many questions about where I get information about using and confi
 - [Virtually Fun](https://virtuallyfun.com/wordpress/)
 - [What is the Apple IIGS](https://www.whatisthe2gs.apple2.org.za/final-assault.html)
 
-I should also mention that the Internet Archive frequently has scanned manuals and self-help books that you can download or check out from their [eBook library](https://archive.org/details/texts)!
+I should also mention that the Internet Archive frequently has scanned manuals, magazines and self-help books that you can download or check out from their [eBook library](https://archive.org/details/texts)!
+
+## Emulators Written in JavaScript
+
+Many of the emulators listed above and more have been ported to [JavaScript](https://en.wikipedia.org/wiki/JavaScript), enabling them to be hosted and embedded on web pages and run by a browser. This is, for instance, how Internet Archive does their in-browser console and early PC emulation (e.g. with Em-DOSBox, a JS port of DOSBox, and JSMESS, a JS port of MAME/MESS).
+
+JavaScript emulation has many advantages, especially that it makes emulated computers widely and quickly shareable. However, it passes much of the computing load on to client browsers - the entire emulator application, plus whatever operating system and applications or files the user wants to view, have to get downloaded into the user's browser. So it makes a lot of sense for early systems that barely take up much storage space or computing power by modern standards, but trying to run anything from ~2000 on (e.g. Windows XP and up) or the size of a CD-ROM runs the risk of unexpected/slow behavior, crashing the browser or client system, etc.
+
+There are A LOT of emulators written in JavaScript, and I have found an already-existing list organized very similar to my own, so instead of recreating that work I will just link it here:
+
+ - [Emulators written in Javascript]((https://github.com/fcambus/jsemu)), by @fcampbus on GitHub
+
 
 ## Hardware Emulators
 [Hardware emulation](https://en.wikipedia.org/wiki/Hardware_emulation) refers to the process of imitating one piece of hardware with another piece of hardware. Its utility is a little unclear in preservation and archiving use cases - part of the advantage of software emulation is the portability and flexibility of working in virtual environments.
