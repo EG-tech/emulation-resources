@@ -154,6 +154,7 @@ I've received many questions about where I get information about using and confi
 - [Computer History Wiki](http://gunkies.org/wiki/Main_Page)
 - [Computer Hope](https://www.computerhope.com/)
 - [EveryMac.com](https://everymac.com/)
+- [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 - [Info-Mac](https://www.info-mac.org/)
 - [IT History Society](https://www.ithistory.org/)
 - [kraxel's news](https://www.kraxel.org/blog/)
