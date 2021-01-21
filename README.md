@@ -251,6 +251,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - Recorded webinars + resources from [Software Preservation Network](https://www.softwarepreservationnetwork.org/spn-resources/)
 - EaaSI Training Modules:
   - [#1: Emulation Environments](https://www.softwarepreservationnetwork.org/eaasi-training-module-emulation-environments/), 2020-10
+  - [#2: Software vs. Content](https://www.softwarepreservationnetwork.org/eaasi-training-module-2-software-and-content/), 2021-01
 - EaaSI Case Studies:
   - [#1: The Would-Be Gentleman](https://www.softwarepreservationnetwork.org/eaasi-case-study-1-the-would-be-gentleman/), 2021-01
 
