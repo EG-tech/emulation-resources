@@ -1,9 +1,7 @@
 # emulation-resources
-A collection of resources re: emulation for preservation and access.
+A collection of resources re: emulation for preservation and access. Maintained by myself for [personal](https://ethan-gates.com/talks/2018-02-20-talk-5) and [professional](https://softwarepreservationnetwork.org/eaasi) reasons, but pull requests welcome!
 
-In the spirit of the AMIA [open-workflows](https://github.com/amiaopensource/open-workflows), [analog-inspection](https://github.com/amiaopensource/analog-inspection) and [time-based-media-art](https://github.com/amiaopensource/time-based-media-art) repositories. Maintained by myself for [personal](https://ethan-gates.com/talks/2018-02-20-talk-5) and [professional](https://softwarepreservationnetwork.org/eaasi) reasons, but pull requests welcome!
-
-If you have never contributed to GitHub before, feel free to [file a new issue](https://github.com/EG-tech/emulation-resources/issues) with a link and I'll add it! Or just ping me [elsewhere](https://digipres.club/@The_BFOOL).
+If you have never contributed to GitLab before, feel free to [file a new issue](https://gitlab.com/EG-tech/emulation-resources/issues) with a link and I'll add it! Or just ping me [elsewhere](https://digipres.club/@The_BFOOL).
 
 ## Contents
 - [Emulators](#emulators)
