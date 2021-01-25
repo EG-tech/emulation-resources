@@ -3,6 +3,8 @@ A collection of resources re: emulation for preservation and access. Maintained 
 
 If you have never contributed to GitLab before, feel free to [file a new issue](https://gitlab.com/EG-tech/emulation-resources/issues) with a link and I'll add it! Or just ping me [elsewhere](https://digipres.club/@The_BFOOL).
 
+There is a related companion repository for disk imaging resources at [disk-imaging-resources](https://gitlab.com/EG-tech/disk-imaging-resources)
+
 ## Contents
 - [Emulators](#emulators)
 - [Software Download Sites](#software-download-sites)
