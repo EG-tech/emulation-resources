@@ -100,6 +100,7 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 *Note: downloads on the live site at Oldapps.com stopped working some time ago (c. 2017 or 2018), but you can sometimes still snag what you need by going to a Wayback Machine crawl from before that*
 - [Oldversion.com](http://www.oldversion.com/)
 - [Old versions of Linux](https://soft.lafibre.info/)
+- [OSBoxes](https://www.osboxes.org/)
 - [PulkoMandy's BeOS software archive](http://pulkomandy.tk/~beosarchive/)
 - [Retrocomputing Archive](http://www.retroarchive.org/)
 - [Software Heritage source code archive](https://archive.softwareheritage.org/)
@@ -154,6 +155,8 @@ I've received many questions about where I get information about using and confi
 - [Computer History Museum](https://computerhistory.org/)
 - [Computer History Wiki](http://gunkies.org/wiki/Main_Page)
 - [Computer Hope](https://www.computerhope.com/)
+- [E-maculation forum](https://www.emaculation.com/forum/)
+- [Emulation General wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 - [EveryMac.com](https://everymac.com/)
 - [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 - [Info-Mac](https://www.info-mac.org/)
