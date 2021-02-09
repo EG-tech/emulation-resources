@@ -251,6 +251,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Emulating Networks - Preserving Access to Webservers"](https://openpreservation.org/blogs/emulating-networks-preserving-access-to-webservers/), Klaus Rechert, *Open Preservation Foundation blog*, 2020-11-05
 - ["An Archivist's Perspective on Legacy Files"](https://blogs.loc.gov/thesignal/2020/11/an-archivists-perspective-on-legacy-files/), Chad Conrady, *The Signal*, 2020-11-16
 - ["Emulation or it Didn't Happen"](https://rhizome.org/editorial/2020/dec/21/flash-preservation/), Dragan Espenschied, *Rhizome*, 2020-12-21
+- ["Four Android Emulators, Two Apps"](https://www.bitsgalore.org/2021/02/09/four-android-emulators-two-apps), Johan van der Knijff, *bitsgalore*, 2021-02-09
 
 
 ### EaaSI + SPN
