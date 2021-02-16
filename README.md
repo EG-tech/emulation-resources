@@ -274,6 +274,8 @@ More scholarly considerations of emulation as an access service and digital/soft
   - [#2: Software vs. Content](https://www.softwarepreservationnetwork.org/eaasi-training-module-2-software-and-content/), 2021-01
 - EaaSI Case Studies:
   - [#1: The Would-Be Gentleman](https://www.softwarepreservationnetwork.org/eaasi-case-study-1-the-would-be-gentleman/), 2021-01
+- EaaSI Roundtable Discussions:
+  - [What We Talk About When We Talk About Emulation](https://www.softwarepreservationnetwork.org/eaasi-roundtable-1/), 2021-01
 
 
 ### Art and Exhibition
