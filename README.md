@@ -68,6 +68,10 @@ Organized by target system.
 - [Wang3300](https://www.wang3300.org/emu.html) and [Wang2200](https://www.wang2200.org/emu.html) (Wang mini/microcomputer series emulators)
 - [QDAE](https://www.seasip.info/Unix/QDAE/) (Apricot series and Wang Professional Computer)
 
+#### Xerox Alto
+- [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto)
+- [Salto](http://toastytech.com/guis/index.html) (for Windows)
+
 #### Multi-System
 - [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
 - [MAME/MESS](https://www.mamedev.org/) ([wide variety](http://www.progettoemma.net/mess/) of arcade/video game machines and vintage CPUs)
@@ -76,7 +80,6 @@ Organized by target system.
 
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
-- [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) (Xerox Alto)
 - [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
 - [Previous](http://previous.alternative-system.com/) (NeXT systems)
 - [Ruffle](https://ruffle.rs/) (Flash Player emulator)
@@ -173,6 +176,7 @@ I've received many questions about where I get information about using and confi
 - [RetroWeb Vintage Computer Museum](http://retroweb.maclab.org/)
 - [Siber-Sonic World O' Apple & Macintosh](https://siber-sonic.com/mac/index.html)
 - [System 7 Today](http://forums.system7today.com/)
+- [Toasty Tech's GUI Gallery](http://toastytech.com/guis/index.html)
 - [The Ultimate Computer Acronyms Archive](/PDFs/Computer_Acronyms_Archive.pdf)
 - [VintageApple.org](https://vintageapple.org/)
 - [Virtually Fun](https://virtuallyfun.com/wordpress/)
