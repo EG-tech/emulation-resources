@@ -73,15 +73,16 @@ Organized by target system.
 - [Salto](http://toastytech.com/guis/index.html) (for Windows)
 
 #### Multi-System
-- [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
+- [Hercules](http://www.hercules-390.org/) (Mainframe sysytems, including: IBM System/370, ESA/390, z/Architecture)
 - [MAME/MESS](https://www.mamedev.org/) ([wide variety](http://www.progettoemma.net/mess/) of arcade/video game machines and vintage CPUs)
 - [PCE](http://www.hampa.ch/pce/) (Atari ST, IBM PC5150, and 68k Mac emulation)
 - [QEMU](https://www.qemu.org/) (can also do various SPARC, MiPS, ARM, RISC-V, and other machines, see https://wiki.qemu.org/Documentation/Platforms)
+- [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
 
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
 - [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
-- [Previous](http://previous.alternative-system.com/) (NeXT systems)
+- [Previous](http://previous.alternative-system.com/) (NeXT machines)
 - [Ruffle](https://ruffle.rs/) (Flash Player emulator)
 
 ## Software Download Sites
