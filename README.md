@@ -13,7 +13,7 @@ There is a related companion repository for disk imaging resources at [disk-imag
 - [Emulators Written in JavaScript](#emulators-written-in-javascript)
 - [Hardware Emulators](#hardware-emulators)
 - [Copyright](#copyright)
-- [Reading](#reading)
+- [Bibliography](#bibliography)
 ---
 
 ## Emulators
@@ -220,7 +220,7 @@ Some important guidance on copyright concerns when it comes to using emulation f
 - ["Cracking the Copyright Dilemma in Software Preservation: Protecting Digital Culture through Fair Use Consensus"](https://doi.org/10.17161/jcel.v3i3.10267), Brandon Butler, Patricia Aufderheide, Peter Jaszi, Krista Cox, *Journal of Copyright in Education and Librarianship*, Vol. 3, Issue 3, 2019-11-05 ([PDF](PDFs/Cracking_Copyright_Dilemma.pdf))
 - ["Apple v. Corellium: Some Early Takeaways for Software Fair Use"](https://blogs.harvard.edu/copyrightosc/2021/02/23/fair-use-week-2021-day-two-with-guest-expert-brandon-butler/), Brandon Butler, *Harvard Fair Use Week*, 2021-02-23 ([Wayback](https://web.archive.org/web/20210223162837/https://blogs.harvard.edu/copyrightosc/2021/02/23/fair-use-week-2021-day-two-with-guest-expert-brandon-butler/))
 
-## Reading
+## Bibliography
 More scholarly considerations of emulation as an access service and digital/software preservation, and/or summaries of emulation used in cultural heritage projects:
 
 ### General
@@ -253,6 +253,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - "The Foundations of Emulation as a Service: An Interview with Dirk von Suchodoletz", [Part 1](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-one/) and [Part 2](https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-two/), *The Signal*, 2012-12-10 and 2012-12-11 ([Wayback Part 1](https://web.archive.org/web/20201210192808/https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-one/) | [Wayback Part 2](https://web.archive.org/web/20201210192736/https://blogs.loc.gov/thesignal/2012/12/the-foundations-of-emulation-as-a-service-an-interview-with-dirk-von-suchodoletz-part-two/))
 - ["Preserving.exe: Toward a National Strategy for Preserving Software"](http://www.digitalpreservation.gov/multimedia/documents/PreservingEXE_report_final101813.pdf), *National Digital Information Infrastructure and Preservation Program*, 2013-10 ([Wayback](https://web.archive.org/web/20201016165257/http://www.digitalpreservation.gov/multimedia/documents/PreservingEXE_report_final101813.pdf))
 - ["The Digital Life of Salman Rushdie"](https://www.newyorker.com/tech/annals-of-technology/digital-life-salman-rushdie), Dan Rockmore, *The New Yorker*, 2014-07-29 ([Wayback](https://web.archive.org/web/20201203083135/https://www.newyorker.com/tech/annals-of-technology/digital-life-salman-rushdie))
+- ["Developing Costing Models for Emulation Based Access in Scientific Libraries"](https://services.phaidra.univie.ac.at/api/object/o:378075/diss/Content/get), Euan Cochrane, Dirk von Suchodoletz, Klaus Rechert, *11th International Conference on Digital Preservation (iPRES)*, 2014-12 ([Wayback](https://web.archive.org/web/20210319190201/https://services.phaidra.univie.ac.at/api/object/o:378075/diss/Content/get))
 - ["The Emularity"](http://ascii.textfiles.com/archives/4546), Jason Scott, 2015-01-23 ([Wayback](https://web.archive.org/web/20201208175634/http://ascii.textfiles.com/archives/4546))
 - ["Characterization of CD-ROMs for Emulation-based Access"](https://services.phaidra.univie.ac.at/api/object/o:429556/diss/Content/get), Klaus Rechert, Thomas Liebetraut, Oleg Stobbe, Isgandar Valizada, Tobias Steinke, *12th International Conference on Digital Preservation (iPRES)*, 2015 ([PDF](PDFs/CD-ROM_Characterization.pdf))
 - ["Functional Access to Forensic Disk Images in a Web Service"](https://kamwoods.net/publications/woods_functional-access-to-forensic-disk-images.pdf), Kam Woods, Christopher A. Lee, Oleg Stobbe, Thomas Liebetraut, Klaus Rechert, *12th International Conference on Digital Preservation (iPRES)*, 2015 ([Wayback](https://web.archive.org/web/20210219192043/https://kamwoods.net/publications/woods_functional-access-to-forensic-disk-images.pdf))
