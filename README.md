@@ -276,6 +276,7 @@ More scholarly considerations of emulation as an access service and digital/soft
 - ["Four Android Emulators, Two Apps"](https://www.bitsgalore.org/2021/02/09/four-android-emulators-two-apps), Johan van der Knijff, *bitsgalore*, 2021-02-09 ([Wayback](https://web.archive.org/web/20210218084316/https://www.bitsgalore.org/2021/02/09/four-android-emulators-two-apps))
 - ["Preservation In Vivo"](https://www.environmentalmedialab.com/heliotrope/preservation-in-vivo), Madeleine Mendell, *Environmental Media Lab*, 2021-02-17 ([Wayback](https://web.archive.org/web/20210217203551/https://www.environmentalmedialab.com/heliotrope/preservation-in-vivo))
 - ["Emulation progress through collaboration"](http://blog.supdigital.org/emulation-progress-through-collaboration/), Jasmine Mulliken, *.supDigital*, 2021-03-10 ([Wayback](https://web.archive.org/web/20210310193633/http://blog.supdigital.org/emulation-progress-through-collaboration/))
+- ["Emulation practices for software preservation in libraries, archives, and museums"](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24482), Amelia Acker, *Journal of the Association for Information Science and Technology*, 2021-05-04 ([PDF](PDFs/Emulation_Practices_Acker.pdf))
 
 
 ### EaaSI + SPN
