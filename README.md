@@ -82,6 +82,7 @@ Organized by target system.
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
 - [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
+- [POSE (Palm OS Emulator)](https://palmdb.net/app/palm-emulator) (older PalmOS devices)
 - [Previous](http://previous.alternative-system.com/) (NeXT machines)
 - [Ruffle](https://ruffle.rs/) (Flash Player emulator)
 
@@ -105,6 +106,7 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 - [Oldversion.com](http://www.oldversion.com/)
 - [Old versions of Linux](https://soft.lafibre.info/)
 - [OSBoxes](https://www.osboxes.org/)
+- [PalmDB](https://palmdb.net/)
 - [PulkoMandy's BeOS software archive](http://pulkomandy.tk/~beosarchive/)
 - [Retrocomputing Archive](http://www.retroarchive.org/)
 - [Software Heritage source code archive](https://archive.softwareheritage.org/)
