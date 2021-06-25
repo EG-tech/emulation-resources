@@ -72,6 +72,10 @@ Organized by target system.
 - [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto)
 - [Salto](http://toastytech.com/guis/index.html) (for Windows)
 
+#### PalmOS
+- [Mu](https://meepingsnesroms.github.io/)
+- [POSE (Palm OS Emulator)](https://palmdb.net/app/palm-emulator) (for Windows)
+
 #### Multi-System
 - [Hercules](http://www.hercules-390.org/) (Mainframe sysytems, including: IBM System/370, ESA/390, z/Architecture)
 - [MAME/MESS](https://www.mamedev.org/) ([wide variety](http://www.progettoemma.net/mess/) of arcade/video game machines and vintage CPUs)
@@ -81,8 +85,8 @@ Organized by target system.
 
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
+- [Blackberry Simulator series](https://www.softpedia.com/dyn-search.php?search_term=blackberry+simulator&) (Blackberry mobile devices, for Windows)
 - [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
-- [POSE (Palm OS Emulator)](https://palmdb.net/app/palm-emulator) (older PalmOS devices)
 - [Previous](http://previous.alternative-system.com/) (NeXT machines)
 - [Ruffle](https://ruffle.rs/) (Flash Player emulator)
 
