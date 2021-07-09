@@ -31,6 +31,8 @@ Organized by target system.
   - [QEMU Manager](http://www.davereyn.co.uk/) (QEMU front-end; Windows-only)
   - [AQEMU](https://github.com/tobimensch/aqemu) (QEMU front-end, not actively developed and must be compiled from source)
   - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)  
+  - [qemu-virgil](https://snapcraft.io/qemu-virgil) (QEMU build with the [Virgil 3D](https://virgil3d.github.io/) rendering library pre-configured; Linux-only Snap)
+  - [qemu-screamer](https://github.com/mcayland/qemu) (QEMU fork with experimental sound support for PowerPC MacOS guests; must build from source)
 
 #### Apple
 - [microM8](https://paleotronic.com/software/microm8/download/) (Apple II)
