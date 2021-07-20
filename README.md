@@ -153,6 +153,9 @@ ssshhh
 - ["OS/2 Warp 4 and QEMU"](https://sites.mpc.com.br/ric/qemu/index.html) ([Wayback](https://web.archive.org/web/20201025063943/http://sites.mpc.com.br/ric/qemu/index.html))
 - ["QEMU with OS/2 Warp 3 as Guest"](https://wiki.gentoo.org/wiki/QEMU/OS2WarpV3_guest) ([Wayback](https://web.archive.org/web/20201001152447/https://wiki.gentoo.org/wiki/QEMU/OS2WarpV3_guest))
 - ["OS/2 on Virtualbox Guide"](https://gekk.info/articles/os2.html) ([Wayback](https://web.archive.org/web/20201031214848/https://gekk.info/articles/os2.html))
+- ["How to install Windows 1/2 in QEMU"](https://computernewb.com/wiki/How_to_install_Windows_1/2_in_QEMU)
+- [QEMU and mouse integration in DOS, Windows 3.x, Windows 95](http://ostimeline.org/wctablet)
+- ["How do I activate Windows XP nowadays (in 2019)?](https://superuser.com/questions/1502796/how-do-i-activate-windowsxp-now-that-support-has-ended)
 
 
 ## Hobby Sites and Computer History Resources
@@ -177,6 +180,7 @@ I've received many questions about where I get information about using and confi
 - [The Linux Documentation Project](https://www.tldp.org/index.html)
 - [Low End Mac](https://lowendmac.com/)
 - [Macintosh System Error Codes Explained (PreOSX)](http://www.macwizard.com/errors.html)
+- [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)
 - [NeXT Computers](http://www.nextcomputers.org/)
 - [Old Computer Museum](http://www.oldcomputermuseum.com/default.htm)
 - [Oldlinux.org](http://oldlinux.org/)
