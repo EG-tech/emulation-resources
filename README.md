@@ -70,9 +70,11 @@ Organized by target system.
 - [Wang3300](https://www.wang3300.org/emu.html) and [Wang2200](https://www.wang2200.org/emu.html) (Wang mini/microcomputer series emulators)
 - [QDAE](https://www.seasip.info/Unix/QDAE/) (Apricot series and Wang Professional Computer)
 
-#### Xerox Alto
-- [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto)
-- [Salto](http://toastytech.com/guis/index.html) (for Windows)
+#### Xerox
+- [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) (Xerox Alto)
+- [Salto](http://toastytech.com/guis/salto.html) (Xerox Alto, for Windows)
+- [Dark Star](https://github.com/livingcomputermuseum/Darkstar) (Xerox Star 8010)
+- [Medley Interlisp](https://interlisp.org/) (not an emulator per se; modern re-write of the Medley Lisp IDE running on a portable VM, but could be used to run Lisp-based code/software in a modern environment)
 
 #### PalmOS
 - [Mu](https://meepingsnesroms.github.io/)
@@ -175,6 +177,7 @@ I've received many questions about where I get information about using and confi
 - [EveryMac.com](https://everymac.com/)
 - [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
 - [Info-Mac](https://www.info-mac.org/)
+- [Interlisp bibliography](https://www.zotero.org/groups/2914042/interlisp/library)
 - [IT History Society](https://www.ithistory.org/)
 - [kraxel's news](https://www.kraxel.org/blog/)
 - [The Linux Documentation Project](https://www.tldp.org/index.html)
