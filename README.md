@@ -187,7 +187,7 @@ I've received many questions about where I get information about using and confi
 - [NeXT Computers](http://www.nextcomputers.org/)
 - [Old Computer Museum](http://www.oldcomputermuseum.com/default.htm)
 - [Oldlinux.org](http://oldlinux.org/)
-- [The OS Files](http://www.osfiles.com/index.htm)
+- [The OS Files](https://web.archive.org/web/20200729003129/http://www.osfiles.com/)
 - [OS/2 Museum](http://www.os2museum.com/wp/)
 - [RetroWeb Vintage Computer Museum](http://retroweb.maclab.org/)
 - [Siber-Sonic World O' Apple & Macintosh](https://siber-sonic.com/mac/index.html)
