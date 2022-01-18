@@ -45,6 +45,7 @@ Organized by target system.
 - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/) (68k Mac emulator w/no need for ROMs or system software)
 - [Shoebill](https://github.com/pruten/shoebill) (Macintosh II, IIx and IIcx emulator that runs A/UX)
 - [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
+  - [µvMac "Micro vMac"](https://github.com/InvisibleUp/uvmac) (fork of Mini vMac intended for a cleaner code base and user configuration, but doesn't really work yet; worth keeping an eye on)
 - [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
 - [SheepShaver](https://sheepshaver.cebix.net/) (PowerPC Macs)
 - [QEMU](https://www.qemu.org/) (also does PowerPC emulation, OS 9.2.x-OSX)
@@ -81,6 +82,7 @@ Organized by target system.
 - [POSE (Palm OS Emulator)](https://palmdb.net/app/palm-emulator) (for Windows)
 
 #### Multi-System
+- [Clock Signal](https://github.com/tomharte/CLK) (a variety of common 8- and 16-bit PC systems)
 - [Hercules](http://www.hercules-390.org/) (Mainframe sysytems, including: IBM System/370, ESA/390, z/Architecture)
 - [MAME/MESS](https://www.mamedev.org/) ([wide variety](http://www.progettoemma.net/mess/) of arcade/video game machines and vintage CPUs)
 - [PCE](http://www.hampa.ch/pce/) (Atari ST, IBM PC5150, and 68k Mac emulation)
