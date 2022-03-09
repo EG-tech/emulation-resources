@@ -34,7 +34,7 @@ Organized by target system.
   - [qemu-screamer](https://github.com/mcayland/qemu) (QEMU fork with experimental sound support for PowerPC MacOS guests; must build from source)
 
 #### Apple
-- [OpenEmulator](https://github.com/openemulator/openemulator) (Apple I and Apple II series)
+- [OpenEmulator](https://github.com/openemulator/openemulator) (Apple I and Apple II series, Mac-only)
 - [microM8](https://paleotronic.com/software/microm8/download/) (Apple II)
 - [AppleWin](https://github.com/applewin/applewin) (Apple II series, for Windows)
   - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)
