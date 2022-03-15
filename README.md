@@ -234,9 +234,7 @@ They're pretty neat though, so I thought I'd include them here.
 ## Bibliography
 For some time, I maintained a bilbiography here of published resources related to emulation and software/digital preservation, including blog posts, journal articles, use cases, discussions of copyright consideration, training modules, and more. It ultimately grew to a point that GitLab/markdown was not a great place to keep adding to it.
 
-Those citations and resources have instead all been moved to a sub-collection of the Software Preservation Network's public [Zotero library](https://www.zotero.org/software-preservation/library)! Going forward, I will contribute new resources I find there. Do check it out, as that page now has everything I linked and more. (Much thanks to the SPN Training & Education working group for accepting my "donation"!)
-
-https://www.zotero.org/software-preservation/library
+I have instead moved those citations and resources to a [collection on my Zotero account](https://www.zotero.org/ethan-gates/collections/ERZIYJ3T). Going forward, I will add new resources I find there - do check it out, as that page now has everything I previously linked in this repo and more. (This bibliography has also been copied/mirrored to the Software Preservation Network's [public Zotero](https://www.zotero.org/software-preservation/library)); much thanks to the SPN Training & Education working group for accepting my contribution!)
 
 
 ### Repository Copyright
