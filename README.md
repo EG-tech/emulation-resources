@@ -182,6 +182,7 @@ I've received many questions about where I get information about using and confi
 - [Info-Mac](https://www.info-mac.org/)
 - [Interlisp bibliography](https://www.zotero.org/groups/2914042/interlisp/library)
 - [IT History Society](https://www.ithistory.org/)
+- [KnowledgeBase Archive](https://jeffpar.github.io/kbarchive/)
 - [kraxel's news](https://www.kraxel.org/blog/)
 - [The Linux Documentation Project](https://www.tldp.org/index.html)
 - [Low End Mac](https://lowendmac.com/)
