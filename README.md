@@ -32,6 +32,7 @@ Organized by target system.
   - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)  
   - [qemu-virgil](https://snapcraft.io/qemu-virgil) (QEMU build with the [Virgil 3D](https://virgil3d.github.io/) rendering library pre-configured; Linux-only Snap)
   - [qemu-screamer](https://github.com/mcayland/qemu) (QEMU fork with experimental sound support for PowerPC MacOS guests; must build from source)
+- [Windows95.js](https://github.com/felixrieseberg/windows95) (Windows 95 image running in v86 - a JavaScript PC emulator, see [JS emulators](#emulators-written-in-javascript) - packaged as a desktop app)
 
 #### Apple
 - [OpenEmulator](https://github.com/openemulator/openemulator) (Apple I and Apple II series, Mac-only)
@@ -48,6 +49,7 @@ Organized by target system.
 - [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
   - [µvMac "Micro vMac"](https://github.com/InvisibleUp/uvmac) (fork of Mini vMac intended for a cleaner code base and user configuration, but doesn't really work yet; worth keeping an eye on)
 - [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
+  - [Macintosh.js](https://github.com/felixrieseberg/macintosh.js/) (MacOS 8 image running in JavaScript port of Basilisk, packaged as a desktop app)
 - [SheepShaver](https://sheepshaver.cebix.net/) (PowerPC Macs)
 - [QEMU](https://www.qemu.org/) (also does PowerPC emulation, OS 9.2.x-OSX)
 - .... and keeping an eye on [Spoiled Apples](https://avpres.net/Spoiled_Apples/)
@@ -179,6 +181,9 @@ I've received many questions about where I get information about using and confi
 - [Emulation General wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 - [EveryMac.com](https://everymac.com/)
 - [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/)
+- [Infinite Mac](https://blog.persistent.info/2022/03/blog-post.html)
+  - [System7.app](https://system7.app/)
+  - [MacOS8.app](https://macos8.app/)
 - [Info-Mac](https://www.info-mac.org/)
 - [Interlisp bibliography](https://www.zotero.org/groups/2914042/interlisp/library)
 - [IT History Society](https://www.ithistory.org/)
