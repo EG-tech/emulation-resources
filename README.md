@@ -29,6 +29,7 @@ Organized by target system.
 - [QEMU](https://www.qemu.org/) (x86 PC virtualization)
   - [QEMU Manager](http://www.davereyn.co.uk/) (QEMU front-end; Windows-only)
   - [AQEMU](https://github.com/tobimensch/aqemu) (QEMU front-end, not actively developed and must be compiled from source)
+  - [UTM](https://mac.getutm.app/) (QEMU front-end, macOS-only)
   - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)  
   - [qemu-virgil](https://snapcraft.io/qemu-virgil) (QEMU build with the [Virgil 3D](https://virgil3d.github.io/) rendering library pre-configured; Linux-only Snap)
   - [qemu-screamer](https://github.com/mcayland/qemu) (QEMU fork with experimental sound support for PowerPC MacOS guests; must build from source)
@@ -94,6 +95,7 @@ Organized by target system.
 
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
+- [Android Emulator](https://developer.android.com/studio/run/emulator) (built-in Android device emulator included in downloads for all systems with Android Studio)
 - [Blackberry Simulator series](https://www.softpedia.com/dyn-search.php?search_term=blackberry+simulator&) (Blackberry mobile devices, for Windows)
 - [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
 - [Previous](http://previous.alternative-system.com/) (NeXT machines)
