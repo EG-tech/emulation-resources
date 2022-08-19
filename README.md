@@ -27,6 +27,7 @@ Organized by target system.
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
 - [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
 - [QEMU](https://www.qemu.org/) (x86 PC virtualization)
+  - [Qiwi](https://gitlab.com/eg-tech/qiwi) (QEMU launcher; cross-platform Python app; developed by yours truly, feedback welcome :smile: )
   - [QEMU Manager](http://www.davereyn.co.uk/) (QEMU front-end; Windows-only)
   - [AQEMU](https://github.com/tobimensch/aqemu) (QEMU front-end, not actively developed and must be compiled from source)
   - [UTM](https://mac.getutm.app/) (QEMU front-end, macOS-only)
