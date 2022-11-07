@@ -144,27 +144,42 @@ ssshhh
 
 
 ## Setup Guides
+
+#### QEMU
 - [QEMU QED](https://eaasi.gitlab.io/program_docs/qemu-qed) ([Wayback](https://web.archive.org/web/20210219201541/https://eaasi.gitlab.io/program_docs/qemu-qed/))
-- [A Guide to Legacy Mac Emulators](https://patchbay.tech/2018/05/21/a-guide-to-legacy-mac-emulators/) ([Wayback](https://web.archive.org/web/20201125013621/https://patchbay.tech/2018/05/21/a-guide-to-legacy-mac-emulators/))
-- [E-maculation How-Tos](https://emaculation.com/doku.php) ([Wayback](https://web.archive.org/web/20210104032116/https://emaculation.com/doku.php))
-- [Redundant Robot SheepShaver Tutorial](http://www.redundantrobot.com/sheepshaver) ([Wayback](https://web.archive.org/web/20201118135240/https://www.redundantrobot.com/sheepshaver))
-- [Running NeXTSTEP in VirtualBox](https://sites.google.com/site/benvirtualbox/home/nextstep) ([Wayback](https://web.archive.org/web/20201006153754/https://sites.google.com/site/benvirtualbox/home/nextstep))
-- [Installing NextStep OS (OpenStep) in VirtualBox](https://stuffjasondoes.com/2018/07/25/installing-nextstep-os-openstep-on-virtualbox-in-2018/) ([Wayback](https://web.archive.org/web/20201128130349/https://stuffjasondoes.com/2018/07/25/installing-nextstep-os-openstep-on-virtualbox-in-2018/))
 - [QEMU Wikibooks info/guides](https://en.wikibooks.org/wiki/QEMU) ([Wayback](https://web.archive.org/web/20210218214031/https://en.wikibooks.org/wiki/QEMU))
 - [QEMU Tutorials, Computer History Wiki](http://gunkies.org/wiki/Category:QEMU_Tutorials) ([Wayback](https://web.archive.org/web/20190911061951/http://gunkies.org:80/wiki/Category:QEMU_Tutorials))
-- [DOSBox Wiki](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox) ([Wayback](https://web.archive.org/web/20210128214159/http://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox))
-- [Windows 95/98 Guest OSes in VirtualBox](https://forums.virtualbox.org/viewtopic.php?f=2&t=33359&start=30) ([Wayback](https://web.archive.org/web/20210219202504/https://forums.virtualbox.org/viewtopic.php?f=2&t=33359&start=30))
+- ["How to install Windows 1/2 in QEMU"](https://computernewb.com/wiki/How_to_install_Windows_1/2_in_QEMU)
+- [QEMU and mouse integration in DOS, Windows 3.x, Windows 95](http://ostimeline.org/wctablet)
 - ["How Linux got to be Linux: Test driving 1993-2003 distros"](https://opensource.com/article/16/12/yearbook-linux-test-driving-distros) (includes relevant QEMU configurations and tips for a bunch of older Linux OSes) ([Wayback](https://web.archive.org/web/20201108121819/https://opensource.com/article/16/12/yearbook-linux-test-driving-distros))
 - ["Build your own SPARC with QEMU and Solaris"](https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris?view=all) (how to set up and configure Solaris with qemu-system-sparc) ([Wayback](https://web.archive.org/web/20200819152940/https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris?view=all))
   - [Getting Started with Solaris 2.6](https://gekk.info/articles/solaris26.htm) (builds off the previous tutorial, adds instructions for running/using particular programs) ([Wayback](https://web.archive.org/web/20200610003130/https://gekk.info/articles/solaris26.htm))
-- ["Running Mac OS X as a QEMU/KVM Guest"](https://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/) ([Wayback](https://web.archive.org/web/20210124131818/https://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/))
 - ["Running Dano (BeOS) in Qemu"](https://discuss.haiku-os.org/t/running-dano-in-qemu/4354) ([Wayback](https://web.archive.org/web/20210219202855/https://discuss.haiku-os.org/t/running-dano-in-qemu/4354))
-- ["Build your own BeBox and run BeOS using Virtualbox"](https://learn.adafruit.com/build-a-bebox-with-beos-and-virtualbox?view=all#overview) ([Wayback](https://web.archive.org/web/20201029012617/https://learn.adafruit.com/build-a-bebox-with-beos-and-virtualbox?view=all))
 - ["OS/2 Warp 4 and QEMU"](https://sites.mpc.com.br/ric/qemu/index.html) ([Wayback](https://web.archive.org/web/20201025063943/http://sites.mpc.com.br/ric/qemu/index.html))
 - ["QEMU with OS/2 Warp 3 as Guest"](https://wiki.gentoo.org/wiki/QEMU/OS2WarpV3_guest) ([Wayback](https://web.archive.org/web/20201001152447/https://wiki.gentoo.org/wiki/QEMU/OS2WarpV3_guest))
+- ["Running Mac OS X as a QEMU/KVM Guest"](https://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/) ([Wayback](https://web.archive.org/web/20210124131818/https://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/))
+
+#### VirtualBox
+- Socket 3's VirtualBox setup guides:
+  - [MS-DOS 6.22 & Windows 3.1](https://socket3.wordpress.com/2016/08/25/install-configure-ms-dos-6-22-and-windows-3-1-using-oracle-virtualbox/)
+  - [Windows 95](https://socket3.wordpress.com/2016/09/06/install-configure-windows-95-using-oracle-virtualbox/)
+  - [Windows 98](https://socket3.wordpress.com/2018/10/28/install-configure-windows-98-using-oracle-virtualbox/)
+  - [Windows NT 3.1](https://socket3.wordpress.com/2016/12/18/install-configure-windows-nt-3-1-using-oracle-virtualbox/)
+  - [OS/2 Warp 4.52](https://socket3.wordpress.com/2017/04/02/install-configure-ibm-os2-warp-4-52-using-oracle-virtualbox/)
+  - [BeOS R5.1D](https://socket3.wordpress.com/2020/03/01/install-configure-beos-r5-1d-using-oracle-virtualbox/)
+- [Windows 95/98 Guest OSes in VirtualBox](https://forums.virtualbox.org/viewtopic.php?f=2&t=33359&start=30) ([Wayback](https://web.archive.org/web/20210219202504/https://forums.virtualbox.org/viewtopic.php?f=2&t=33359&start=30))
+- [Running NeXTSTEP in VirtualBox](https://sites.google.com/site/benvirtualbox/home/nextstep) ([Wayback](https://web.archive.org/web/20201006153754/https://sites.google.com/site/benvirtualbox/home/nextstep))
+- [Installing NextStep OS (OpenStep) in VirtualBox](https://stuffjasondoes.com/2018/07/25/installing-nextstep-os-openstep-on-virtualbox-in-2018/) ([Wayback](https://web.archive.org/web/20201128130349/https://stuffjasondoes.com/2018/07/25/installing-nextstep-os-openstep-on-virtualbox-in-2018/))
+- ["Build your own BeBox and run BeOS using Virtualbox"](https://learn.adafruit.com/build-a-bebox-with-beos-and-virtualbox?view=all#overview) ([Wayback](https://web.archive.org/web/20201029012617/https://learn.adafruit.com/build-a-bebox-with-beos-and-virtualbox?view=all))
 - ["OS/2 on Virtualbox Guide"](https://gekk.info/articles/os2.html) ([Wayback](https://web.archive.org/web/20201031214848/https://gekk.info/articles/os2.html))
-- ["How to install Windows 1/2 in QEMU"](https://computernewb.com/wiki/How_to_install_Windows_1/2_in_QEMU)
-- [QEMU and mouse integration in DOS, Windows 3.x, Windows 95](http://ostimeline.org/wctablet)
+
+#### Macs
+- [A Guide to Legacy Mac Emulators](https://patchbay.tech/2018/05/21/a-guide-to-legacy-mac-emulators/) ([Wayback](https://web.archive.org/web/20201125013621/https://patchbay.tech/2018/05/21/a-guide-to-legacy-mac-emulators/))
+- [E-maculation How-Tos](https://emaculation.com/doku.php) ([Wayback](https://web.archive.org/web/20210104032116/https://emaculation.com/doku.php))
+- [Redundant Robot SheepShaver Tutorial](http://www.redundantrobot.com/sheepshaver) ([Wayback](https://web.archive.org/web/20201118135240/https://www.redundantrobot.com/sheepshaver))
+
+#### Other
+- [DOSBox Wiki](https://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox) ([Wayback](https://web.archive.org/web/20210128214159/http://www.dosbox.com/wiki/Basic_Setup_and_Installation_of_DosBox))
 - ["How do I activate Windows XP nowadays (in 2019)?](https://superuser.com/questions/1502796/how-do-i-activate-windowsxp-now-that-support-has-ended)
 
 
@@ -206,6 +221,7 @@ I've received many questions about where I get information about using and confi
 - [OS/2 Museum](http://www.os2museum.com/wp/)
 - [RetroWeb Vintage Computer Museum](http://retroweb.maclab.org/)
 - [Siber-Sonic World O' Apple & Macintosh](https://siber-sonic.com/mac/index.html)
+- [Socket 3: Bits & Bytes on Retro Computing](https://socket3.wordpress.com/)
 - [System 7 Today](http://forums.system7today.com/)
 - [Toasty Tech's GUI Gallery](http://toastytech.com/guis/index.html)
 - [TOSEC - The Old School Emulation Center](https://www.tosecdev.org/)
