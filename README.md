@@ -113,6 +113,7 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 - [Dave's Old Computers](http://www.classiccmp.org/dunfield/img/index.htm)
 - [Hobbes OS/2 Archive](https://hobbes.nmsu.edu/)
 - [Internet Archive Software Collection](https://archive.org/details/software)
+- [The Lost Archives](https://lostarchives.org/category/)
 - [Macintosh Garden](http://macintoshgarden.org/)
 - [Macintosh Repository](https://www.macintoshrepository.org)
 - [Mac GUI](https://www.macgui.com/)
