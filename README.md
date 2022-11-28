@@ -85,6 +85,7 @@ Organized by target system.
 #### PalmOS
 - [Mu](https://meepingsnesroms.github.io/)
 - [POSE (Palm OS Emulator)](https://palmdb.net/app/palm-emulator) (for Windows)
+  - [CloudpilotEmu](https://cloudpilot-emu.github.io/) (POSE ported to a web app via Emscripten)
 
 #### Multi-System
 - [Clock Signal](https://github.com/tomharte/CLK) (a variety of common 8- and 16-bit PC systems)
