@@ -72,6 +72,10 @@ Organized by target system.
 - [RPCEmu](http://www.marutan.net/rpcemu/index.php) (various Acorn + RiscPC machines)
 - [VirtualRPC](http://www.virtualacorn.co.uk/product.htm) (RiscPC, commercial product)
 
+#### Atari
+- [Hatari](https://github.com/hatari/hatarihttps://github.com/hatari/hatari) (Atari ST/STE/TT/Falcon)
+- [Steem SSE](https://sourceforge.net/projects/steemsse/) (Atari ST, for Windows + Linux)
+
 #### Wang
 - [Wang3300](https://www.wang3300.org/emu.html) and [Wang2200](https://www.wang2200.org/emu.html) (Wang mini/microcomputer series emulators)
 - [QDAE](https://www.seasip.info/Unix/QDAE/) (Apricot series and Wang Professional Computer)
