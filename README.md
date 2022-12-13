@@ -73,7 +73,7 @@ Organized by target system.
 - [VirtualRPC](http://www.virtualacorn.co.uk/product.htm) (RiscPC, commercial product)
 
 #### Atari
-- [Hatari](https://github.com/hatari/hatarihttps://github.com/hatari/hatari) (Atari ST/STE/TT/Falcon)
+- [Hatari](https://github.com/hatari/hatari) (Atari ST/STE/TT/Falcon)
 - [Steem SSE](https://sourceforge.net/projects/steemsse/) (Atari ST, for Windows + Linux)
 
 #### Wang
