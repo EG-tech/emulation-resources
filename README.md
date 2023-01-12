@@ -91,6 +91,10 @@ Organized by target system.
 - [POSE (Palm OS Emulator)](https://palmdb.net/app/palm-emulator) (for Windows)
   - [CloudpilotEmu](https://cloudpilot-emu.github.io/) (POSE ported to a web app via Emscripten)
 
+#### Android
+- [Android Emulator](https://developer.android.com/studio/run/emulator) (built-in Android device emulator included in downloads for all systems with Android Studio)
+- [Android-x86](https://www.android-x86.org/) (**not an emulator**; but this is a port of the Android operating system to x86 architecture, which allows it to be run as a guest in x86 PC emulators like QEMU or VirtualBox)
+
 #### Multi-System
 - [Clock Signal](https://github.com/tomharte/CLK) (a variety of common 8- and 16-bit PC systems)
 - [Hercules](http://www.hercules-390.org/) (Mainframe sysytems, including: IBM System/370, ESA/390, z/Architecture)
@@ -101,7 +105,6 @@ Organized by target system.
 
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
-- [Android Emulator](https://developer.android.com/studio/run/emulator) (built-in Android device emulator included in downloads for all systems with Android Studio)
 - [Blackberry Simulator series](https://www.softpedia.com/dyn-search.php?search_term=blackberry+simulator&) (Blackberry mobile devices, for Windows)
 - [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
 - [Previous](http://previous.alternative-system.com/) (NeXT machines)
@@ -164,6 +167,7 @@ ssshhh
 - ["OS/2 Warp 4 and QEMU"](https://sites.mpc.com.br/ric/qemu/index.html) ([Wayback](https://web.archive.org/web/20201025063943/http://sites.mpc.com.br/ric/qemu/index.html))
 - ["QEMU with OS/2 Warp 3 as Guest"](https://wiki.gentoo.org/wiki/QEMU/OS2WarpV3_guest) ([Wayback](https://web.archive.org/web/20201001152447/https://wiki.gentoo.org/wiki/QEMU/OS2WarpV3_guest))
 - ["Running Mac OS X as a QEMU/KVM Guest"](https://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/) ([Wayback](https://web.archive.org/web/20210124131818/https://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/))
+- ['How to run Android in QEMU to Play 3D Android Games on Linux](https://linuxhint.com/android_qemu_play_3d_games_linux/)
 
 #### VirtualBox
 - Socket 3's VirtualBox setup guides:
