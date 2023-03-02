@@ -128,7 +128,6 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 - [NeXT File Archive](http://www.nextcomputers.org/NeXTfiles/)
 - [crawls of Oldapps.com](https://web.archive.org/web/http://www.oldapps.com/)  
 *Note: downloads on the live site at Oldapps.com stopped working some time ago (c. 2017 or 2018), but you can sometimes still snag what you need by going to a Wayback Machine crawl from before that*
-- [Oldversion.com](http://www.oldversion.com/)
 - [Old versions of Linux](https://soft.lafibre.info/)
 - [OSBoxes](https://www.osboxes.org/)
 - [PalmDB](https://palmdb.net/)
