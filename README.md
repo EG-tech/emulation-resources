@@ -54,6 +54,7 @@ Organized by target system.
   - [Macintosh.js](https://github.com/felixrieseberg/macintosh.js/) (MacOS 8 image running in JavaScript port of Basilisk, packaged as a desktop app)
 - [SheepShaver](https://sheepshaver.cebix.net/) (PowerPC Macs)
 - [QEMU](https://www.qemu.org/) (also does PowerPC emulation, OS 9.2.x-OSX)
+- [DingusPPC](https://github.com/dingusdev/dingusppc) (experimental PowerPC Mac emulation; can not yet actually boot MacOS)
 - .... and keeping an eye on [Spoiled Apples](https://avpres.net/Spoiled_Apples/)
 
 #### Commodore
