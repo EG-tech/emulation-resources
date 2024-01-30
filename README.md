@@ -45,6 +45,7 @@ Organized by target system.
 - [KEGS](http://kegs.sourceforge.net/) (Apple IIgs)
   - [GSPlus](https://apple2.gs/plus/) (Apple IIgs, based on KEGS, nice interface)
   - [GSport](https://david-schmidt.github.io/gsport/) (Apple IIgs, based on KEGS, ethernet and printing cabaility)
+- [Crossrunner](https://www.crossrunner.gs/faq#h.joz3qmpdadze) (Apple IIgs, for Windows)
 - [LisaEm](https://lisa.sunder.net/) (Apple Lisa, for macOS + Linux)
 - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/) (68k Mac emulator w/no need for ROMs or system software)
 - [Shoebill](https://github.com/pruten/shoebill) (Macintosh II, IIx and IIcx emulator that runs A/UX)
