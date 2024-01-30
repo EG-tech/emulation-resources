@@ -137,6 +137,7 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 - [Retrocomputing Archive](http://www.retroarchive.org/)
 - [Software Heritage source code archive](https://archive.softwareheritage.org/)
 - [QEMU Advent Calendars](https://www.qemu-advent-calendar.org/)
+- [The U-M Software Archives](https://websites.umich.edu/~archive/)
 - [Vetusware.com](https://www.vetusware.com/)
 - [Windows Update Restored](http://windowsupdaterestored.com/)
 - [WinWorld](https://winworldpc.com/home)
