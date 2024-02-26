@@ -21,7 +21,7 @@ Organized by target system.
 #### x86 PCs
 - [DOSBox](https://www.dosbox.com/) (DOS-based x86 PCs)
 - [PCem](http://pcem-emulator.co.uk/) (x86 PCs)
-  - [86Box](https://86box.net/) (x86 PCs, fork of PCem, Windows-only)
+  - [86Box](https://86box.net/) (x86 PCs, fork of PCem)
 - [Bochs](http://bochs.sourceforge.net/) (x86 PC emulation)
 - [Microsoft Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3702) (x86 PC virtualization)
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
