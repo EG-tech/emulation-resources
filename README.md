@@ -108,6 +108,7 @@ Organized by target system.
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
 - [Blackberry Simulator series](https://www.softpedia.com/dyn-search.php?search_term=blackberry+simulator&) (Blackberry mobile devices, for Windows)
+- [Ersatz-11](http://dbit.com/) (DEC PDP-11)
 - [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
 - [Previous](http://previous.alternative-system.com/) (NeXT machines)
 - [Ruffle](https://ruffle.rs/) (Flash Player emulator)
