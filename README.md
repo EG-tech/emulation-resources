@@ -51,6 +51,7 @@ Organized by target system.
 - [Shoebill](https://github.com/pruten/shoebill) (Macintosh II, IIx and IIcx emulator that runs A/UX)
 - [Mini vMac](https://www.gryphel.com/c/minivmac/index.html) (early 68k Macs)
   - [µvMac "Micro vMac"](https://github.com/InvisibleUp/uvmac) (fork of Mini vMac intended for a cleaner code base and user configuration, but doesn't really work yet; worth keeping an eye on)
+- [Snow](https://github.com/twvd/snow) (Classic Macs, in dev)
 - [Basilisk II](https://basilisk.cebix.net/) (later 68k Macs)
   - [Macintosh.js](https://github.com/felixrieseberg/macintosh.js/) (MacOS 8 image running in JavaScript port of Basilisk, packaged as a desktop app)
 - [SheepShaver](https://sheepshaver.cebix.net/) (PowerPC Macs)
