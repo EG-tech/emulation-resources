@@ -85,6 +85,7 @@ Organized by target system.
 
 #### Xerox
 - [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto) (Xerox Alto)
+  - [ContrAlto2](https://github.com/jdersch/Contralto2) (beta-status rewrite/update of ContrAlto, more actively maintained)
 - [Salto](http://toastytech.com/guis/salto.html) (Xerox Alto, for Windows)
 - [Dark Star](https://github.com/livingcomputermuseum/Darkstar) (Xerox Star 8010)
 - [Medley Interlisp](https://interlisp.org/) (not an emulator per se; modern re-write of the Medley Lisp IDE running on a portable VM, but could be used to run Lisp-based code/software in a modern environment)
