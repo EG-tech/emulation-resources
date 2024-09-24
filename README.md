@@ -114,6 +114,7 @@ Organized by target system.
 - [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
 - [Previous](http://previous.alternative-system.com/) (NeXT machines)
 - [Ruffle](https://ruffle.rs/) (Flash Player emulator)
+- [z100](https://github.com/mdblack/Zenith-Z-100) (Zenith Z-100)
 
 ## Software Download Sites
 
