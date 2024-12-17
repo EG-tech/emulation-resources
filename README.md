@@ -20,6 +20,8 @@ Organized by target system.
 
 #### x86 PCs
 - [DOSBox](https://www.dosbox.com/) (DOS-based x86 PCs)
+  - [DOSBox-X](https://dosbox-x.com/) (fork of DOSBox, aimed for general system emulation over video games)
+  - [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) (fork of DOSBox, arguably more modern + regularly updated)
 - [PCem](http://pcem-emulator.co.uk/) (x86 PCs)
   - [86Box](https://86box.net/) (x86 PCs, fork of PCem)
 - [Bochs](http://bochs.sourceforge.net/) (x86 PC emulation)
