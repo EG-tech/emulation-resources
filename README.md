@@ -77,6 +77,9 @@ Organized by target system.
 - [RPCEmu](http://www.marutan.net/rpcemu/index.php) (various Acorn + RiscPC machines)
 - [VirtualRPC](http://www.virtualacorn.co.uk/product.htm) (RiscPC, commercial product)
 
+#### Amstrad
+- [WinAPE](http://www.winape.net/) (Amstrad CPC series, for Windows)
+
 #### Atari
 - [Hatari](https://github.com/hatari/hatari) (Atari ST/STE/TT/Falcon)
 - [Steem SSE](https://sourceforge.net/projects/steemsse/) (Atari ST, for Windows + Linux)
@@ -108,6 +111,7 @@ Organized by target system.
 - [PCE](http://www.hampa.ch/pce/) (Atari ST, IBM PC5150, and 68k Mac emulation)
 - [QEMU](https://www.qemu.org/) (can also do various SPARC, MiPS, ARM, RISC-V, and other machines, see https://wiki.qemu.org/Documentation/Platforms)
 - [SimH](http://simh.trailing-edge.com/) (Multi-system early microprocessor emulator)
+- [Retro Virtual Machine](https://www.retrovirtualmachine.org/) (various Amstrad, MSX, Sega machines, ZX Spectrum)
 
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
