@@ -30,16 +30,16 @@ Organized by target system.
 - [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
 - [QEMU](https://www.qemu.org/) (x86 PC virtualization)
   - [Qiwi](https://gitlab.com/eg-tech/qiwi) (QEMU launcher; cross-platform Python app; developed by yours truly, feedback welcome :smile: )
-  - [QEMU Manager](http://www.davereyn.co.uk/) (QEMU front-end; Windows-only)
+  - [QEMU Manager](http://www.davereyn.co.uk/) (QEMU front-end; for Windows)
   - [AQEMU](https://github.com/tobimensch/aqemu) (QEMU front-end, not actively developed and must be compiled from source)
-  - [UTM](https://mac.getutm.app/) (QEMU front-end, macOS-only)
+  - [UTM](https://mac.getutm.app/) (QEMU front-end, for macOS)
   - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)  
   - [qemu-virgil](https://snapcraft.io/qemu-virgil) (QEMU build with the [Virgil 3D](https://virgil3d.github.io/) rendering library pre-configured; Linux-only Snap)
   - [qemu-screamer](https://github.com/mcayland/qemu) (QEMU fork with experimental sound support for PowerPC MacOS guests; must build from source)
 - [Windows95.js](https://github.com/felixrieseberg/windows95) (Windows 95 image running in v86 - a JavaScript PC emulator, see [JS emulators](#emulators-written-in-javascript) - packaged as a desktop app)
 
 #### Apple
-- [OpenEmulator](https://github.com/openemulator/openemulator) (Apple I and Apple II series, Mac-only)
+- [OpenEmulator](https://github.com/openemulator/openemulator) (Apple I and Apple II series, for MacOS)
 - [microM8](https://paleotronic.com/software/microm8/download/) (Apple II)
 - [AppleWin](https://github.com/applewin/applewin) (Apple II series, for Windows)
   - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)
@@ -78,7 +78,12 @@ Organized by target system.
 - [VirtualRPC](http://www.virtualacorn.co.uk/product.htm) (RiscPC, commercial product)
 
 #### Amstrad
-- [WinAPE](http://www.winape.net/) (Amstrad CPC series, for Windows)
+- [Caprice32](https://github.com/colinpitrat/caprice32) (CPC series)
+- [JavaCPC Desktop](https://sourceforge.net/projects/javacpc/) (CPC series)
+- [WinAPE](http://www.winape.net/) (CPC series, for Windows)
+- [CP/M Box](https://www.habisoft.com/pcw/en.htm) (PCW series, for Windows)
+- [JOYCE](https://www.seasip.info/Unix/Joyce/index.html) (PCW series)
+- [Ana Rosa](https://www.habisoft.com/pcw16/en.htm) (PcW16, for Windows)
 
 #### Atari
 - [Hatari](https://github.com/hatari/hatari) (Atari ST/STE/TT/Falcon)
