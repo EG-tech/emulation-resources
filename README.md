@@ -41,6 +41,8 @@ Organized by target system.
 #### Apple
 - [OpenEmulator](https://github.com/openemulator/openemulator) (Apple I and Apple II series, for MacOS)
 - [microM8](https://paleotronic.com/software/microm8/download/) (Apple II)
+  - [microM8 GUI Frontend](https://paleotronic.com/software/microm8/help/gui-frontend/) (microm8 front-end)
+- [Epple II](https://github.com/cmosher01/Epple-II) (Apple II)
 - [AppleWin](https://github.com/applewin/applewin) (Apple II series, for Windows)
   - [LinApple](http://linapple.sourceforge.net/index.html) (AppleWin port for Linux)
 - [Virtual II](https://www.virtualii.com/) (Apple II, for MacOS)
