@@ -25,6 +25,7 @@ Organized by target system.
 - [PCem](http://pcem-emulator.co.uk/) (x86 PCs)
   - [86Box](https://86box.net/) (x86 PCs, fork of PCem)
 - [Bochs](http://bochs.sourceforge.net/) (x86 PC emulation)
+- [MartyPC](https://github.com/dbalsom/martypc) (early/8088-series IBM PCs: PC, PCJr, XT, Tandy 1000, etc.)
 - [Microsoft Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3702) (x86 PC virtualization)
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
 - [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
