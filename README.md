@@ -26,12 +26,11 @@ Organized by target system.
   - [86Box](https://86box.net/) (x86 PCs, fork of PCem)
 - [Bochs](http://bochs.sourceforge.net/) (x86 PC emulation)
 - [MartyPC](https://github.com/dbalsom/martypc) (early/8088-series IBM PCs: PC, PCJr, XT, Tandy 1000, etc.)
-- [Microsoft Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3702) (x86 PC virtualization)
+- [Microsoft Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) (x86 PC virtualization, discontinued and only works on 32-bit Windows hosts)
 - [VirtualBox](https://www.virtualbox.org/) (x86 PC virtualization)
 - [VMware](https://www.vmware.com/products/personal-desktop-virtualization.html) (x86 PC virtualization) - I think Workstation Player is the current free product/version for Windows + Linux, and Fusion for Macs, but good luck sorting that out
 - [QEMU](https://www.qemu.org/) (x86 PC virtualization)
   - [Qiwi](https://gitlab.com/eg-tech/qiwi) (QEMU launcher; cross-platform Python app; developed by yours truly, feedback welcome :smile: )
-  - [QEMU Manager](http://www.davereyn.co.uk/) (QEMU front-end; for Windows)
   - [AQEMU](https://github.com/tobimensch/aqemu) (QEMU front-end, not actively developed and must be compiled from source)
   - [UTM](https://mac.getutm.app/) (QEMU front-end, for macOS)
   - [Virtual Machine Manager](https://virt-manager.org/) (can be used as a QEMU front-end but largely targeted at managing modern KVM virtual machines/virtualization rather than emulation)  
@@ -50,7 +49,7 @@ Organized by target system.
 - [KEGS](http://kegs.sourceforge.net/) (Apple IIgs)
   - [GSPlus](https://apple2.gs/plus/) (Apple IIgs, based on KEGS, nice interface)
   - [GSport](https://david-schmidt.github.io/gsport/) (Apple IIgs, based on KEGS, ethernet and printing cabaility)
-- [Crossrunner](https://www.crossrunner.gs/faq#h.joz3qmpdadze) (Apple IIgs, for Windows)
+- [Crossrunner](https://www.crossrunner.gs/home) (Apple IIgs, for Windows)
 - [LisaEm](https://lisa.sunder.net/) (Apple Lisa, for macOS + Linux)
 - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/) (68k Mac emulator w/no need for ROMs or system software)
 - [Shoebill](https://github.com/pruten/shoebill) (Macintosh II, IIx and IIcx emulator that runs A/UX)
@@ -68,7 +67,7 @@ Organized by target system.
 - [CCS64](http://ccs64.com/) (Commodore 64, for Windows)
 - [C64 Forever](https://www.c64forever.com/) (Commodore series, for Windows only, commercial product)
 - [VICE](http://vice-emu.sourceforge.net/) (Commodore series)
-- [UAE](https://amiga.technology/) (Amiga series)
+- [UAE](https://amiga.technology/uae/) (Amiga series)
   - [WinUAE](http://www.winuae.net/) (port for Windows)
   - [FS-UAE](https://fs-uae.net/) (port for Mac, Linux, Windows)  
 - [Amiga Forever](https://www.amigaforever.com/) (Amiga, commercial product)
@@ -124,7 +123,6 @@ Organized by target system.
 
 #### Other
 - [AlmostTI](https://fms.komkon.org/ATI85/) (Texas Instruments Z80-based graphing calculators)
-- [Blackberry Simulator series](https://www.softpedia.com/dyn-search.php?search_term=blackberry+simulator&) (Blackberry mobile devices, for Windows)
 - [Ersatz-11](http://dbit.com/) (DEC PDP-11)
 - [KLH10](http://klh10.trailing-edge.com/) (DEC PDP-10 series)
 - [Previous](http://previous.alternative-system.com/) (NeXT machines)
@@ -140,7 +138,7 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 - [BeBytes](https://www.be.wildman-productions.org/index.php)
 - [Bitsavers](http://bitsavers.org/bits)
 - [Dave's Old Computers](http://www.classiccmp.org/dunfield/img/index.htm)
-- [Hobbes OS/2 Archive](https://hobbes.nmsu.edu/)
+- [Hobbes OS/2 Archive](https://web.archive.org/web/20240415052424/https://hobbes.nmsu.edu/) (site is no longer live, but Wayback Machine crawls captured a lot)
 - [Internet Archive Software Collection](https://archive.org/details/software)
 - [The Lost Archives](https://lostarchives.org/category/)
 - [Macintosh Garden](http://macintoshgarden.org/)
@@ -169,8 +167,7 @@ ssshhh
 - [RISC OS ROMs](https://www.4corn.co.uk/aview.php?sPath=/roms)
 
 #### Drivers
-- [Drivers for QEMU's emulated devices](http://www.claunia.com/qemu/drivers/)
-- [Drivers Library](http://www.driverslib.com/)
+- [Drivers for QEMU's emulated devices](https://web.archive.org/web/20250607214328/https://www.claunia.com/qemu/drivers/) (site is no longer live but Wayback Machine crawls seem to have gotten a lot)
 - [VOGONS Vintage Drivers](http://vogonsdrivers.com/)
 
 
@@ -180,8 +177,8 @@ ssshhh
 - [QEMU QED](https://eaasi.gitlab.io/program_docs/qemu-qed) ([Wayback](https://web.archive.org/web/20210219201541/https://eaasi.gitlab.io/program_docs/qemu-qed/))
 - [QEMU Wikibooks info/guides](https://en.wikibooks.org/wiki/QEMU) ([Wayback](https://web.archive.org/web/20210218214031/https://en.wikibooks.org/wiki/QEMU))
 - [QEMU Tutorials, Computer History Wiki](http://gunkies.org/wiki/Category:QEMU_Tutorials) ([Wayback](https://web.archive.org/web/20190911061951/http://gunkies.org:80/wiki/Category:QEMU_Tutorials))
-- ["How to install Windows 1/2 in QEMU"](https://computernewb.com/wiki/How_to_install_Windows_1/2_in_QEMU)
-- [QEMU and mouse integration in DOS, Windows 3.x, Windows 95](http://ostimeline.org/wctablet)
+- ["How to install Windows 1/2 in QEMU"](https://computernewb.com/wiki/How_to_install_Windows_1/2_in_QEMU) ([Wayback](https://web.archive.org/web/20250616030940/https://computernewb.com/wiki/QEMU/Guests/Windows_1.x-2.x))
+- [QEMU and mouse integration in DOS, Windows 3.x, Windows 95](http://ostimeline.org/wctablet) ([Wayback](https://web.archive.org/web/20240331070623/http://ostimeline.org/wctablet))
 - ["How Linux got to be Linux: Test driving 1993-2003 distros"](https://opensource.com/article/16/12/yearbook-linux-test-driving-distros) (includes relevant QEMU configurations and tips for a bunch of older Linux OSes) ([Wayback](https://web.archive.org/web/20201108121819/https://opensource.com/article/16/12/yearbook-linux-test-driving-distros))
 - ["Build your own SPARC with QEMU and Solaris"](https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris?view=all) (how to set up and configure Solaris with qemu-system-sparc) ([Wayback](https://web.archive.org/web/20200819152940/https://learn.adafruit.com/build-your-own-sparc-with-qemu-and-solaris?view=all))
   - [Getting Started with Solaris 2.6](https://gekk.info/articles/solaris26.htm) (builds off the previous tutorial, adds instructions for running/using particular programs) ([Wayback](https://web.archive.org/web/20200610003130/https://gekk.info/articles/solaris26.htm))
@@ -189,16 +186,16 @@ ssshhh
 - ["OS/2 Warp 4 and QEMU"](https://sites.mpc.com.br/ric/qemu/index.html) ([Wayback](https://web.archive.org/web/20201025063943/http://sites.mpc.com.br/ric/qemu/index.html))
 - ["QEMU with OS/2 Warp 3 as Guest"](https://wiki.gentoo.org/wiki/QEMU/OS2WarpV3_guest) ([Wayback](https://web.archive.org/web/20201001152447/https://wiki.gentoo.org/wiki/QEMU/OS2WarpV3_guest))
 - ["Running Mac OS X as a QEMU/KVM Guest"](https://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/) ([Wayback](https://web.archive.org/web/20210124131818/https://www.contrib.andrew.cmu.edu/~somlo/OSXKVM/))
-- ['How to run Android in QEMU to Play 3D Android Games on Linux](https://linuxhint.com/android_qemu_play_3d_games_linux/)
+- ['How to run Android in QEMU to Play 3D Android Games on Linux](https://web.archive.org/web/20241103105840/https://linuxhint.com/android_qemu_play_3d_games_linux/) (Wayback-only)
 
 #### VirtualBox
 - Socket 3's VirtualBox setup guides:
-  - [MS-DOS 6.22 & Windows 3.1](https://socket3.wordpress.com/2016/08/25/install-configure-ms-dos-6-22-and-windows-3-1-using-oracle-virtualbox/)
-  - [Windows 95](https://socket3.wordpress.com/2016/09/06/install-configure-windows-95-using-oracle-virtualbox/)
-  - [Windows 98](https://socket3.wordpress.com/2018/10/28/install-configure-windows-98-using-oracle-virtualbox/)
-  - [Windows NT 3.1](https://socket3.wordpress.com/2016/12/18/install-configure-windows-nt-3-1-using-oracle-virtualbox/)
-  - [OS/2 Warp 4.52](https://socket3.wordpress.com/2017/04/02/install-configure-ibm-os2-warp-4-52-using-oracle-virtualbox/)
-  - [BeOS R5.1D](https://socket3.wordpress.com/2020/03/01/install-configure-beos-r5-1d-using-oracle-virtualbox/)
+  - [MS-DOS 6.22 & Windows 3.1](https://socket3.wordpress.com/2016/08/25/install-configure-ms-dos-6-22-and-windows-3-1-using-oracle-virtualbox/) ([Wayback](https://web.archive.org/web/20250920125216/https://socket3.wordpress.com/2016/08/25/install-configure-ms-dos-6-22-and-windows-3-1-using-oracle-virtualbox/))
+  - [Windows 95](https://socket3.wordpress.com/2016/09/06/install-configure-windows-95-using-oracle-virtualbox/) ([Wayback](https://web.archive.org/web/20250824005831/https://socket3.wordpress.com/2016/09/06/install-configure-windows-95-using-oracle-virtualbox/))
+  - [Windows 98](https://socket3.wordpress.com/2018/10/28/install-configure-windows-98-using-oracle-virtualbox/) ([Wayback](https://web.archive.org/web/20250907152826/https://socket3.wordpress.com/2018/10/28/install-configure-windows-98-using-oracle-virtualbox/))
+  - [Windows NT 3.1](https://socket3.wordpress.com/2016/12/18/install-configure-windows-nt-3-1-using-oracle-virtualbox/) ([Wayback](https://web.archive.org/web/20250905213525/https://socket3.wordpress.com/2016/12/18/install-configure-windows-nt-3-1-using-oracle-virtualbox/))
+  - [OS/2 Warp 4.52](https://socket3.wordpress.com/2017/04/02/install-configure-ibm-os2-warp-4-52-using-oracle-virtualbox/) ([Wayback](https://web.archive.org/web/20250913100402/https://socket3.wordpress.com/2017/04/02/install-configure-ibm-os2-warp-4-52-using-oracle-virtualbox/))
+  - [BeOS R5.1D](https://socket3.wordpress.com/2020/03/01/install-configure-beos-r5-1d-using-oracle-virtualbox/) ([Wayback](https://web.archive.org/web/20250825085257/https://socket3.wordpress.com/2020/03/01/install-configure-beos-r5-1d-using-oracle-virtualbox/))
 - [Windows 95/98 Guest OSes in VirtualBox](https://forums.virtualbox.org/viewtopic.php?f=2&t=33359&start=30) ([Wayback](https://web.archive.org/web/20210219202504/https://forums.virtualbox.org/viewtopic.php?f=2&t=33359&start=30))
 - [Running NeXTSTEP in VirtualBox](https://sites.google.com/site/benvirtualbox/home/nextstep) ([Wayback](https://web.archive.org/web/20201006153754/https://sites.google.com/site/benvirtualbox/home/nextstep))
 - [Installing NextStep OS (OpenStep) in VirtualBox](https://stuffjasondoes.com/2018/07/25/installing-nextstep-os-openstep-on-virtualbox-in-2018/) ([Wayback](https://web.archive.org/web/20201128130349/https://stuffjasondoes.com/2018/07/25/installing-nextstep-os-openstep-on-virtualbox-in-2018/))
@@ -219,11 +216,11 @@ ssshhh
 I've received many questions about where I get information about using and configuring old operating systems (and troubleshooting them with various emulation applications). Short answer: wherever search engines take me, even if it's a random forum post from 2004. But there are some vintage computing hobbyist sites and resources that have popped up more often, so a shoutout to those here:
 
 - [4corn Computers](https://www.4corn.co.uk)
-- [Amit Singh (kernelthread.com)](http://www.kernelthread.com/)
+- [Amit Singh (kernelthread.com)](https://web.archive.org/web/20200103162304/http://kernelthread.com/publications/) (Wayback-only)
 - [Apple Fandom Wiki](https://apple.fandom.com/wiki/Main_Screen)
 - [Awesome Computer History](https://github.com/watson/awesome-computer-history)
 - [Centre for Computing History](http://www.computinghistory.org.uk/pages/590/Search-Our-Archive/)
-- [Commodore Computers](https://web.archive.org/web/*/https://www.commodore.ca/)
+- [Commodore Computers](https://web.archive.org/web/*/https://www.commodore.ca/) (Wayback-only)
 - [Computer History Museum](https://computerhistory.org/)
 - [Computer History Wiki](http://gunkies.org/wiki/Main_Page)
 - [Computer Hope](https://www.computerhope.com/)
@@ -249,11 +246,10 @@ I've received many questions about where I get information about using and confi
 - [Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)
 - [NeXT Computers](http://www.nextcomputers.org/)
 - [Old Computer Museum](http://www.oldcomputermuseum.com/default.htm)
-- [Old-Computers.com](https://www.old-computers.com/museum/default.asp)
+- [Old-Computers.com](https://web.archive.org/web/20220426125846/https://www.old-computers.com/museum/) (Wayback-only)
 - [Oldlinux.org](http://oldlinux.org/)
-- [The OS Files](https://web.archive.org/web/20200729003129/http://www.osfiles.com/)
+- [The OS Files](https://web.archive.org/web/20200729003129/http://www.osfiles.com/) (Wayback-only)
 - [OS/2 Museum](http://www.os2museum.com/wp/)
-- [RetroWeb Vintage Computer Museum](http://retroweb.maclab.org/)
 - [Siber-Sonic World O' Apple & Macintosh](https://siber-sonic.com/mac/index.html)
 - [Socket 3: Bits & Bytes on Retro Computing](https://socket3.wordpress.com/)
 - [System 7 Today](http://forums.system7today.com/)
@@ -295,7 +291,7 @@ They're pretty neat though, so I thought I'd include them here.
 ## Bibliography
 For some time, I maintained a bilbiography here of published resources related to emulation and software/digital preservation, including blog posts, journal articles, use cases, discussions of copyright consideration, training modules, and more. It ultimately grew to a point that GitLab/markdown was not a great place to keep adding to it.
 
-I have instead moved those citations and resources to a [collection on my Zotero account](https://www.zotero.org/ethan-gates/collections/ERZIYJ3T). Going forward, I will add new resources I find there - do check it out, as that page now has everything I previously linked in this repo and more. (This bibliography has also been copied/mirrored to the Software Preservation Network's [public Zotero](https://www.zotero.org/software-preservation/library)); much thanks to the SPN Training & Education working group for accepting my contribution!)
+I have instead moved those citations and resources to a [collection on my Zotero account](https://www.zotero.org/ethan-gates/collections/ERZIYJ3T). Going forward, I will add new resources I find there - do check it out, as that page now has everything I previously linked in this repo and more.
 
 
 ### Repository Copyright
