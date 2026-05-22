@@ -153,6 +153,7 @@ I have generally had luck with these sites, but be careful out there. (WinWorld 
 - [PulkoMandy's BeOS software archive](http://pulkomandy.tk/~beosarchive/)
 - [Retrocomputing Archive](http://www.retroarchive.org/)
 - [Software Heritage source code archive](https://archive.softwareheritage.org/)
+- [Tenox Operating System Archive](http://tenox.pdp-11.ru/)
 - [QEMU Advent Calendars](https://www.qemu-advent-calendar.org/)
 - [The U-M Software Archives](https://websites.umich.edu/~archive/)
 - [Vetusware.com](https://www.vetusware.com/)
@@ -214,6 +215,8 @@ ssshhh
 
 ## Hobby Sites and Computer History Resources
 I've received many questions about where I get information about using and configuring old operating systems (and troubleshooting them with various emulation applications). Short answer: wherever search engines take me, even if it's a random forum post from 2004. But there are some vintage computing hobbyist sites and resources that have popped up more often, so a shoutout to those here:
+
+- [The Virtual OS Museum](https://virtualosmuseum.org/) - a massive collection of pre-configured, pre-installed legacy operating systems and corresponding emulators - distributed via a "launcher" (that is itself a VM, runnable via QEMU, UTM or VirtualBox); the entire set is massive (121 GB zipped, 174 GB unzipped) but a "lite" version (14G zipped, 21G unzipped) lets you download relevant OS images once selected
 
 - [4corn Computers](https://www.4corn.co.uk)
 - [Amit Singh (kernelthread.com)](https://web.archive.org/web/20200103162304/http://kernelthread.com/publications/) (Wayback-only)
